@@ -1,0 +1,120 @@
+{
+  "achievements": [
+    {
+      "id": 1,
+      "title": "National Coding Championship",
+      "description": "Won 1st prize in national level coding competition with ₹50,000 prize money",
+      "category": "Competitions",
+      "date": "2024-10-15",
+      "award": "1st Prize",
+      "image": "/images/achievements/coding-trophy.jpg"
+    },
+    {
+      "id": 2,
+      "title": "AI Innovation Award",
+      "description": "Recognized for innovative AI-based project solving real-world problems",
+      "category": "Innovation",
+      "date": "2024-09-20",
+      "award": "Best Innovation Award",
+      "image": "/images/achievements/ai-award.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ideathon Winners",
+      "description": "Team 'New Gen Innovators' won Ideathon 2024 organized by ICT Academy",
+      "category": "Competitions",
+      "date": "2024-09-27",
+      "award": "1st Prize - ₹1,00,000",
+      "image": "/images/achievements/ideathon.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Research Publication",
+      "description": "Published 5 research papers in IEEE and Springer journals",
+      "category": "Research",
+      "date": "2024-08-10",
+      "award": "Journal Publications",
+      "image": "/images/achievements/research.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Hackathon Success",
+      "description": "3 teams qualified for finals in national hackathon with innovative solutions",
+      "category": "Competitions",
+      "date": "2024-09-15",
+      "award": "Finalist Recognition",
+      "image": "/images/achievements/hackathon.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Campus Ambassador",
+      "description": "Student selected as IIT Bombay Campus Ambassador",
+      "category": "Recognition",
+      "date": "2024-07-20",
+      "award": "Ambassador Position",
+      "image": "/images/achievements/ambassador.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Startup Incubation",
+      "description": "2 student startups incubated under GHRCEM startup hub",
+      "category": "Entrepreneurship",
+      "date": "2024-06-30",
+      "award": "Incubation Support",
+      "image": "/images/achievements/startup.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Placement Record",
+      "description": "100% placement rate with average CTC of ₹8.5 LPA",
+      "category": "Placements",
+      "date": "2024-05-15",
+      "award": "100% Placement",
+      "image": "/images/achievements/placement.jpg"
+    }
+  ],
+  "timeline": [
+    {
+      "id": 1,
+      "year": "2024",
+      "event": "Ideathon 2024 - 1st Prize Won",
+      "description": "New Gen Innovators team wins ₹1,00,000 prize",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "year": "2024",
+      "event": "National Coding Championship",
+      "description": "Won 1st prize in national competition",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "year": "2024",
+      "event": "Research Publications",
+      "description": "5 papers published in IEEE and Springer",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "year": "2024",
+      "event": "100% Placement Achievement",
+      "description": "All final year students placed with avg CTC ₹8.5 LPA",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "year": "2025",
+      "event": "Smart India Hackathon",
+      "description": "Teams preparing for SIH 2025",
+      "status": "upcoming"
+    },
+    {
+      "id": 6,
+      "year": "2025",
+      "event": "Global Tech Summit",
+      "description": "Students presenting at international conference",
+      "status": "upcoming"
+    }
+  ]
+}

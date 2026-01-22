@@ -1,0 +1,107 @@
+{
+  "about": {
+    "vision": "To achieve excellence in the field of Information Technology by developing Competent Engineers to cater the need of IT industry and Society.",
+    "mission": [
+      "Achieve excellence in teaching learning process by imparting quality and value based education",
+      "Groom competent IT professionals by keeping pace with changing technology to address needs of industry and society",
+      "Promote research and innovation"
+    ],
+    "values": [
+      {
+        "id": 1,
+        "title": "Excellence",
+        "description": "Commitment to delivering highest quality education and fostering innovation in every endeavor",
+        "icon": "⭐"
+      },
+      {
+        "id": 2,
+        "title": "Innovation",
+        "description": "Encouraging creative thinking and cutting-edge solutions to real-world problems",
+        "icon": "💡"
+      },
+      {
+        "id": 3,
+        "title": "Integrity",
+        "description": "Maintaining ethical standards and professional responsibility in all academic and professional pursuits",
+        "icon": "🤝"
+      },
+      {
+        "id": 4,
+        "title": "Collaboration",
+        "description": "Fostering teamwork and collective growth through inclusive and supportive environment",
+        "icon": "👥"
+      }
+    ],
+    "history": {
+      "established": "2007",
+      "description": "Information Technology Department was established with the vision to prepare competent IT professionals. Over the years, it has become a premier destination for quality IT education in the region.",
+      "milestones": [
+        { "year": 2007, "event": "Department established with 60 students" },
+        { "year": 2010, "event": "Received NBA accreditation" },
+        { "year": 2016, "event": "College granted Academic Autonomy" },
+        { "year": 2020, "event": "Achieved 100% placement rate" },
+        { "year": 2024, "event": "Reached 500+ alumni success stories" }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "title": "State-of-the-Art Infrastructure",
+        "description": "Modern labs equipped with latest technology and computing resources"
+      },
+      {
+        "id": 2,
+        "title": "Experienced Faculty",
+        "description": "Dedicated teachers with industry experience and academic excellence"
+      },
+      {
+        "id": 3,
+        "title": "Industry Collaborations",
+        "description": "Strong partnerships with leading IT companies for internships and placements"
+      },
+      {
+        "id": 4,
+        "title": "Research Focus",
+        "description": "Active research centers in AI, Data Science, and Cloud Computing"
+      },
+      {
+        "id": 5,
+        "title": "Skill Development",
+        "description": "Regular workshops and training on emerging technologies"
+      },
+      {
+        "id": 6,
+        "title": "Entrepreneurship Support",
+        "description": "Incubation cell supporting student-led startups and innovations"
+      }
+    ]
+  },
+  "leadership": [
+    {
+      "id": 1,
+      "name": "Dr. R. D. Kharadkar",
+      "position": "Campus Director",
+      "qualification": "Ph.D.",
+      "specialization": "Computer Science",
+      "experience": "25+ years",
+      "image": "/images/about/director.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Poonam Gupta",
+      "position": "Head of Department (IT)",
+      "qualification": "Ph.D.",
+      "specialization": "Information Technology",
+      "experience": "15+ years",
+      "image": "/images/about/hod.jpg"
+    }
+  ],
+  "statistics": [
+    { "label": "Years of Excellence", "value": "17+" },
+    { "label": "Faculty Members", "value": "45+" },
+    { "label": "Students", "value": "500+" },
+    { "label": "Placements", "value": "100%" },
+    { "label": "Alumni", "value": "2000+" },
+    { "label": "Industry Partners", "value": "50+" }
+  ]
+}

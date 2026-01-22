@@ -1,0 +1,33 @@
+{
+  "2024-25": {
+    "Technical Events": [
+      { "id": 1, "src": "/images/gallery/2024-25/tech-1.jpg", "alt": "AI Workshop Session" },
+      { "id": 2, "src": "/images/gallery/2024-25/tech-2.jpg", "alt": "Web Development Bootcamp" },
+      { "id": 3, "src": "/images/gallery/2024-25/tech-3.jpg", "alt": "Participants Working" },
+      { "id": 4, "src": "/images/gallery/2024-25/tech-4.jpg", "alt": "Technical Demo" }
+    ],
+    "Competitions": [
+      { "id": 5, "src": "/images/gallery/2024-25/comp-1.jpg", "alt": "Coding Competition" },
+      { "id": 6, "src": "/images/gallery/2024-25/comp-2.jpg", "alt": "Prize Distribution" },
+      { "id": 7, "src": "/images/gallery/2024-25/comp-3.jpg", "alt": "Participants Focus" }
+    ],
+    "Social Activities": [
+      { "id": 8, "src": "/images/gallery/2024-25/social-1.jpg", "alt": "Tech Fest Opening" },
+      { "id": 9, "src": "/images/gallery/2024-25/social-2.jpg", "alt": "Team Group Photo" },
+      { "id": 10, "src": "/images/gallery/2024-25/social-3.jpg", "alt": "Networking Session" }
+    ]
+  },
+  "2023-24": {
+    "Technical Events": [
+      { "id": 11, "src": "/images/gallery/2023-24/tech-1.jpg", "alt": "2023 Workshop" },
+      { "id": 12, "src": "/images/gallery/2023-24/tech-2.jpg", "alt": "2023 Seminar" }
+    ],
+    "Competitions": [
+      { "id": 13, "src": "/images/gallery/2023-24/comp-1.jpg", "alt": "2023 Competition" }
+    ]
+  },
+  "2022-23":{
+    
+  }
+
+}

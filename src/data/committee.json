@@ -1,0 +1,75 @@
+{
+  "committee": {
+    "authorities": [
+      {
+        "id": 1,
+        "name": "Dr. R. D. Kharadkar",
+        "designation": "Campus Director, GHRCEM",
+        "image": "/images/committee/director.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Poonam Gupta",
+        "designation": "Head of Department (HOD IT)",
+        "image": "/images/committee/hod.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ms. Poonam Dhamal",
+        "designation": "Student Activity Coordinator",
+        "image": "/images/committee/coordinator.jpg"
+      }
+    ],
+    "core_committee": [
+      {
+        "id": 1,
+        "name": "Shivraj Halgode",
+        "role": "President",
+        "year": "B.Tech",
+        "image": "/images/committee/president.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Vedant Maruti Pathak",
+        "role": "Vice President",
+        "year": "TY",
+        "image": "/images/committee/vp.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Anugrah Vishal Shinde",
+        "role": "Secretary",
+        "year": "SY",
+        "image": "/images/committee/secretary.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Harsh Rajkumar Sarda",
+        "role": "Treasurer",
+        "year": "TY",
+        "image": "/images/committee/treasurer.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Shreyans Sandeep Magdum",
+        "role": "Event Coordinator",
+        "year": "TY",
+        "image": "/images/committee/event-coord.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Purab Jitendra Roy",
+        "role": "Publicity Incharge",
+        "year": "SY",
+        "image": "/images/committee/publicity.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Adarsh Kumar Chaurasia",
+        "role": "Web Master",
+        "year": "SY",
+        "image": "/images/committee/webmaster.jpg"
+      }
+    ]
+  }
+}

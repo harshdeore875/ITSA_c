@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Information Technology Students Association",
+    "subtitle": "Empowering the Next Generation of Tech Leaders",
+    "description": "Excellence in Innovation, Expertise in Technology, Excellence in Education",
+    "cta": "Explore Now",
+    "ctaLink": "/events",
+    "backgroundImage": "/images/hero-bg.jpg"
+  },
+  "stats": [
+    {
+      "id": 1,
+      "number": 500,
+      "label": "Active Students",
+      "suffix": "+"
+    },
+    {
+      "id": 2,
+      "number": 45,
+      "label": "Faculty Members",
+      "suffix": "+"
+    },
+    {
+      "id": 3,
+      "number": 100,
+      "label": "Placement Rate",
+      "suffix": "%"
+    },
+    {
+      "id": 4,
+      "number": 30,
+      "label": "Events Per Year",
+      "suffix": "+"
+    }
+  ],
+  "featuredEvents": [
+    {
+      "id": 1,
+      "title": "Smart India Hackathon 2024",
+      "category": "Competitions",
+      "date": "2024-09-06",
+      "description": "National level hackathon with innovative solutions for societal problems",
+      "image": "/images/events/sih.jpg"
+    },
+    {
+      "id": 2,
+      "title": "AI & Machine Learning Workshop",
+      "category": "Technical",
+      "date": "2024-08-15",
+      "description": "Hands-on workshop on latest AI and ML techniques with industry experts",
+      "image": "/images/events/ai-workshop.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Industry Interaction Series",
+      "category": "Industry Interaction",
+      "date": "2024-10-01",
+      "description": "Networking with tech leaders and professionals from top companies",
+      "image": "/images/events/industry.jpg"
+    }
+  ],
+  "aboutPreview": {
+    "heading": "About ITSA",
+    "description": "The Information Technology Students Association is dedicated to fostering technical excellence and professional growth among students.",
+    "points": [
+      "17+ years of academic excellence",
+      "100% placement rate with avg CTC ₹8.5 LPA",
+      "50+ industry partnerships",
+      "2000+ successful alumni",
+      "Research-focused curriculum",
+      "Innovation and entrepreneurship support"
+    ]
+  }
+}

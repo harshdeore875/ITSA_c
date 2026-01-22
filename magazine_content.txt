@@ -1,0 +1,653 @@
+An Empowered Autonomous Institute, Affiliated to SPPU, Pune
+Accredited by NAAC “ A+ “ Grade & NBA
+Department of Information Technology
+ITSA
+Magazine
+Campus : Gat No. 1200 Domkhel Road, Wagholi, Pune - 412207, M.S. (INDIA) 2024-25
+Email : ghrcem.pune@raisoni.net, admission@ghrcem.raisoni.net | Web : http://ghrcemp.raisoni.net
+Term I (June – Dec)
+
+Department of Information Technology
+ITSA
+Information Technology Students Association
+AY 2024-25 (Jun–Dec)
+Term I
+
+Contents Department Vision & Mission
+1) Department Vision & Mission 01
+VISION
+2) Program Specific Outcomes (PSOs) 02
+To achieve excellence in the field of Information Technology by
+3) Program Educational Objectives (PEOs) 02
+developing Competent Engineers to cater the need of IT industry
+4) Program Outcomes (POs) 02
+and Society.
+5) Campus Director Message 04
+6) Head of Department Message 05 MISSION
+7) Student Activity In charge Message 07
+• M1 : Achieve excellence in teaching learning process by imparting
+8) Department Toppers 2023-24 06
+quality and value based education
+9) ITSA Magazine 2024-25 Editorial Team 06
+• M2 : Groom competent IT professionals by keeping pace with
+changing technology to address needs of industry and society
+10) Departmental Activities 08
+• M3 : Promote research and innovation
+11) Students Corner 25
+12) Department Achievements 30
+ITSA Magazine 1
+Term I (June – Dec 2024-25)
+
+7. Environment and sustain ability: Understand the impact of the professional engineering solutions in societal
+Program Educational Outcomes (PEOs)
+and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PEO1 : To prepare the graduates to apply engineering knowledge to design and develop feasible solutions to 8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the
+complex problems engineering practice.
+PEO2 : To prepare the graduates to engage in research and innovation to solve societal and Industrial problems 9. Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams,
+and in multi disciplinary settings.
+PEO3 : To prepare the graduates to exhibit ethics and professionalism to work effectively in multi disciplinary
+team. 10. Communication: Communicate effectively on complex engineering activities with the engineering community
+and with society at large, such as, being able to comprehend and write effective reports and design
+documentation, make effective presentations, and give and receive clear instructions.
+Program Specific Outcomes (PSOs) 11. Project management and finance: Demonstrate knowledge and understanding of the engineering and
+management principles and apply these to one's own work, as a member and leader in a team, to manage
+PSO1 : Graduate will possess knowledge of IT Fundaments, Web Technology, Database Management Systems, projects and in multi disciplinary environments.
+and Software Engineering to develop innovative applications
+12. Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and
+PSO2 : Graduate will have an ability to develop multidisciplinary applications to cater societal needs by using life-long learning in the broadest context of technological change.
+Modern IT tools & Technologies
+Program Outcomes (POs)
+Engineering Graduates will be able to:
+1. Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an
+engineering specialization to the solution of complex engineering problems.
+2. Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems
+reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering
+sciences.
+3. Design/development of solutions: Design solutions for complex engineering problems and design system
+components or processes that meet the specified needs with appropriate consideration for the public health
+and safety, and the cultural, societal, and environmental considerations.
+4. Conduct investigations of complex problems: Use research-based knowledge and research methods
+including design of experiments, analysis and interpretation of data, and synthesis of the information to provide
+valid conclusions.
+5. Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and
+IT tools including prediction and modelling to complex engineering activities with an understanding of the
+limitations.
+6. The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health,
+safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering
+practice.
+2 ITSA Magazine ITSA Magazine 3
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Director's Message Head of Department Message
+Dr. R. D. Kharadkar Dr. Poonam Gupta
+Campus Director GHRCEM, Pune. HOD - IT
+Due to rapid social and technological changes, there is need for quality engineers who can think creatively The Information Technology Department of G.H. Raisoni College of Engineering and Management
+and apply their intelligence to solve engineering problems while designing products for the ever changing was started in the year 2007. The goal of the Department is to prepare students for successful careers
+world. GHRCEM was established in year 2006 and achieved a major landmark of conferment of in software and hardware industry that meets the needs of Indian and multinational companies or to
+Academic Autonomy by University Grants Commission and Savitribai Phule Pune University in year 2016. excel in higher studies. The Department has experienced and dedicated faculty members with strong
+commitment to the engineering education and professional ethics.
+GHRCEM works diligently to achieve excellent standards of quality education by keeping pace with rapidly
+Information Technology is the field which deals with analyzing and designing hardware, software, and
+changing technologies and create technical manpower of global standards with capabilities of accepting
+operating systems for a computer system. Our students are trained in software design and
+new challenges. Our efforts are dedicated to impart quality and value based education to raise the
+implementation. The Department has well equipped laboratories with a good number of personal
+satisfaction level of all stake holders. In view of this, the Institute has imparted various programs under
+computers, servers etc. The Department also has a library.
+autonomy like Honors / Minor Streams, General Proficiency Courses, Professional Development Courses,
+Various workshops, seminars, guest lectures and training programs based on current technologies are
+Skill Development Courses, Open Electives considering the overall development of students and Soft
+organized under various professional bodies such as IEEE CS, ISTE and CSI for the development of
+skills as a part of the Curriculum. The concept of choice based credit system allows learners to choose
+faculty and students. Industrial visits are arranged to expose the students to real world applications.
+according to their own learning needs, interests and aptitudes.
+The research work is carried out by the faculty along with students in the areas like Wireless Sensor
+To groom the students from industry perspective, the Institute has established academic collaboration
+Network, Image Processing and Data Mining. Students are also encouraged and guided for
+with all leading industries to encourage the summer internships and semester internship in industry as a
+participating in various technical events organized by industries and reputed institutes. As a result of
+part of curriculum. The Institute is committed to provide continuous support and encouragement for the
+sincere efforts of faculty & state of art facilities provided by the Department, our students are
+students having innovative ideas for initiating start-ups. The research achievements of our faculty provide
+excelling in IT as well as other related industries.
+enriched experience to our students at both the graduate and undergraduate levels. The center of
+excellence created in various domains gives an extraordinary opportunity to our graduate students for
+nurturing the research apatite.
+We provide an environment for our students to learn to focus on their own goals and in the process to
+value others. We nurture our students with love and affection in order to bring the best out of them and
+succeed in life. I would appeal you to take the maximum benefit of the opportunistic environment and join
+us in our endeavor to actively contribute to the overall improvement of this increasingly globalized
+society.
+4 ITSA Magazine ITSA Magazine 5
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Student Activity Coordinator Message Department Toppers
+Toppers 2023-24
+Sr. No. Year Name of Student Rank CGPA
+1 Second Year Sanika Dilip Tambare I 9.805
+2 Second Year Harshal Ashok Nagre II 9.78
+3 Third Year Prathamesh Dnyandeo Khande I 9.72
+4 Third Year Shinde Shivram Maroti II 9.63
+5 Final Year Rohit Mahadev Sangole I 10
+6 Final Year Tanmay Radhakrishna Aswale II 9.935
+Ms. Poonam Dhamal
+Activity Coordinator, IT Department
+ITSA Magazine 2024-25
+It is with great pleasure to introduce the current issue of IT Spectrum, the Information
+Publication Team
+Technology Department magazine, for the academic year 2024-25. This publication
+serves as a platform to showcase the academic, research, and innovative pursuits of our
+students and faculty. Sr No Name of the Committee Member Role
+The field of Information Technology is at the forefront of technological advancement, 1 Dr. Poonam Gupta HOD IT
+demanding creativity, problem-solving, and adaptability. Our department is committed
+2 Ms. Poonam Dhamal Student Activity Incharge Staff
+to fostering a learning environment that empowers students to develop these skills and
+3 Shivraj Halgode( B. Tech) President, ITSA
+contribute to the ever-evolving digital landscape.
+IT Spectrum highlights the department's achievements, including research projects, 4 Vedant Maruti Pathak(TY) Vice-President, ITSA
+academic accomplishments, industry collaborations, and student initiatives. It is a
+5 Anugrah Vishal Shinde (SY) Secretary, ITSA
+testament to the dedication and talent within our community.
+6 Harsh Rajkumar Sarda (TY) Treasurer, ITSA
+I extend my sincere gratitude to the editorial team and contributors for their hard work
+7 Shreyans Sandeep Magdum(TY) Event Coordinator, ITSA
+in creating this informative and inspiring publication. I hope this magazine serves as a
+valuable resource for students, faculty, and industry professionals alike. 8 Purab Jitendra Roy(SY) Publicity Incharge, ITSA
+9 Adarsh kumar Chaurasia(SY) Web Master, ITSA
+6 ITSA Magazine ITSA Magazine 7
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Departmental Activities
+Event 2: Growing Green: Community Plants for a Brighter Future!
+Event 1 : Skill Development Program on data Analytics The Department of Information Technology, G H Raisoni
+College of Engineering and Management, Pune organized
+The Department of Information Technology at G H Raisoni College of Engineering
+a tree plantation drive at Green Sunrise Hills, Wagholi, on
+successfully organized a comprehensive Skill Development Program on Data Analytics to
+6th July 2024. Jamun saplings were planted to promote
+enhance the technical and professional abilities of students. Conducted by internal faculty
+sustainability, improve air quality, and support biodiversity.
+members-Dr. Vijaya Choudhary, Mrs. Kiran Gore, Dr. Abdul Waheed Shaikh, and Ms. Kiran
+Students enthusiastically took part in planting, while
+Patil-from 18th to 20th June 2024, and further enriched by sessions with industry expert
+faculty coordinators Ms. Yugashree Bhadane, Mrs. Archana
+Ms. Swati Joshi, Assistant Vice President - Analytics and Metrics, Deutsche Bank, Pune, on
+Dongardive, Mr. Dnyandeo Khemnar, and Mr. Amol
+5th and 6th July 2024, the program offered a blend of academic and industry perspectives.
+Chincholkar guided the activity. The drive was planned by
+The inauguration was led by Dr. Poonam Gupta, Head of the IT Department, along with all
+Dr. Poonam Gupta, HoD IT, with the support of Dr. R. D.
+faculty members, where she emphasized the
+Kharadkar, Campus Director.
+importance of continuous learning and keeping
+pace with emerging technologies in today's
+competitive IT landscape. With participation from
+over 90 students, the program featured
+interactive sessions and hands-on training on data
+analytics techniques and tools, equipping students
+with practical knowledge to bridge the gap
+between academia and industry. By fostering
+collaboration between experts, faculty, and
+students, the initiative marked a significant step in Event 3 : Bridge to Careers: T&P Session on Accenture Recruitment
+preparing learners to meet the evolving demands
+of the IT sector.
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune has organized a Session on “Accenture Drive Replacement Talk” on
+10/07/2024 for B. Tech students. Mr. Sachin Umare, Head of Training and Placement at
+GHRCEM, conducted a session to enlighten B. Tech students about the significance of the
+department's activities. The primary focus was on the Accenture recruitment process, which
+was explained in detail. The Training and Placement department offers a comprehensive suite
+of training programs designed to enhance students' technical proficiency and soft skills.
+These programs, conducted by external experts, cover aptitude, logical reasoning,
+quantitative reasoning, and verbal ability. Additionally, the department organizes mock
+8 ITSA Magazine ITSA Magazine 9
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+interviews, group discussions, and communication workshops facilitated by HR professionals Event 5: Mastering UML: Blueprint for Clear & Effective System Design
+from various industries, specifically tailored for final-year students. Mr. Umare encouraged
+The Department of Information Technology, G H
+active student participation in Training and Placement initiatives. Approximately 70 B. Tech
+Raisoni College of Engineering and Management,
+students attended the session and benefited from the information provided. Mr. Dnyandeo
+Pune organized a session on “Mastering UML:
+Khemnar has coordinated the session and proposed vote of thanks. The session was planned
+Blueprint for Clear & Effective System Design” on
+and organized by Dr. Poonam Gupta- HOD IT with all support & guidance of Dr. R. D.
+8th August 2024 under ISTE and ITSA. The session
+Kharadkar, Campus Director.
+aimed to provide students with both basic and
+advanced knowledge of UML, a standardized
+Event 4 : IBM Training: Empowering the Next Gen
+modeling language widely used in software
+The Department of Information Technology at G H Raisoni College of Engineering and engineering. Participants explored structural
+Management, Pune, organized a three-day IBM training program from August 5th to 7th, diagrams (class, object, component, deployment,
+2024, under IETE (Institution of Electronics and Telecommunication Engineers) and ISTE package) and behavioral diagrams (use case,
+(Indian Society for Technical Education). The program aimed to equip students with essential sequence, collaboration, statechart, activity),
+knowledge and practical skills in cloud computing, data analytics, and artificial intelligence. gaining insights into system design and
+Beginning with an introduction to cloud models, services, and architectures, the training functionality. The session also introduced popular
+progressed to data analytics, where students UML tools like StarUML, ArgoUML, and Visual
+learned to derive insights using modern tools and Paradigm. A total of 80 third-year students benefited from the session, delivered by Ms.
+techniques, and further explored AI concepts such Savita Mane, Assistant Professor, IT Dept. Faculty coordinator was Ms. Yugashree Bhadane,
+as machine learning, deep learning, and their and the program was planned by Dr. Poonam Gupta, HoD IT, with the support of
+industry applications. Hands-on sessions using IBM Dr. R. D. Kharadkar, Campus Director.
+Cloud platforms reinforced these concepts Event 6: Ignite Your GRE Ambition
+through real-world scenarios, including data
+The Department of Information Technology, G H
+visualization, predictive modeling, and natural
+Raisoni College of Engineering and Management,
+language processing. A total of 60 second-year
+Pune, in collaboration with the GFG Student
+students benefited from the program, coordinated
+Chapter and CSI, organized a GRE Mock Test on
+by Ms. Samrudhi Bhadane, under the leadership of
+9th August 2024. Sponsored by Mr. Aditya
+Dr. Poonam Gupta, HOD IT, with guidance from
+Chaudhari, Atencion Media, the test replicated the
+Dr. R. D. Kharadkar, Campus Director.
+actual GRE format, helping students assess their
+preparedness and identify areas for improvement.
+Around 200 students from various disciplines
+participated, gaining valuable insights into time
+management, test-taking strategies, and
+preparation techniques. The event highlighted the
+importance of vocabulary, quantitative reasoning,
+and analytical writing for success. Ms. Yugashree
+Bhadane was the faculty coordinator, while the
+session was planned by Dr. Poonam Gupta, HoD IT,
+with the guidance of Dr. R. D. Kharadkar, Campus
+Director.
+10 ITSA Magazine ITSA Magazine11
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Event 9: Higher Studies in USA: Guidance to Receive
+Event 7 : Expert session on Pathway to GRE/GMAT Excellence
+100% Scholarship
+The Department of Information Technology, G H
+The Department of Information Technology, G H
+Raisoni College of Engineering and Management,
+Raisoni College of Engineering and Management,
+Pune organized a session on “Pathway to
+Pune organized a session on “Higher Studies in
+GRE/GMAT Excellence” on 9th August 2024 under
+USA: Guidance to Receive 100% Scholarship” on
+the professional chapters of ISTE and IETE. The
+21st August 2024 under the professional chapter of
+session was delivered by Mr. Nitin Lathe, Senior
+CSI. The session was conducted by Mr. Subhash
+Faculty at IMFS, who guided students on
+Pol, Business Development Manager at Edwise
+standardized tests such as GRE, GMAT, SAT,
+International, and witnessed enthusiastic
+TOEFL, and IELTS. He shared effective strategies
+participation from 87 students. Mr. Pol guided
+on study planning, time management, and building
+students on standardized tests like GRE, GMAT,
+a strong academic profile for study abroad
+SAT, TOEFL, and IELTS, while also emphasizing
+opportunities. The workshop emphasized
+strategies for effective study planning, time
+personalized preparation approaches and inspired
+management, and building a strong academic
+students with practical insights to strengthen their
+profile. The session provided valuable insights into
+applications. A total of 170 students from various
+crafting competitive applications and creating
+streams benefited from the session. Ms. Yugashree
+personalized study plans, boosting students'
+Bhadane coordinated the event, which was
+confidence to pursue higher education abroad.
+planned by Dr. Poonam Gupta, HoD IT, with the
+The event was coordinated by Ms. Yugashree Bhadane and organized by Dr. Poonam Gupta,
+support of Dr. R. D. Kharadkar, Campus Director.
+HoD IT, with the support of Dr. R. D. Kharadkar, Campus Director.
+Event 8:Dashboard-Making Competition
+Event 10: Workshop on Dive into GitHub
+The Department of Information Technology, G H
+The Department of Information Technology, G H
+Raisoni College of Engineering and Management,
+Raisoni College of Engineering and Management,
+Pune, organized a Dashboard-Making Competition
+Pune organized a workshop on “Dive into GitHub:
+on 13th August 2024 under ISTE. A total of 71
+A Practical Workshop” on 23rd August 2024 under
+students from various departments participated,
+ISTE. Conducted by Mr. Govind Hivrale, DevOps
+showcasing their skills in data visualization and
+Engineer at BMC Software and alumnus (2020-21),
+analytics. The competition focused on three
+the session witnessed the participation of 131
+categories—Best Overall Dashboard Design, Most
+students. The workshop covered GitHub
+Innovative Dashboard, and Best Interactive
+basics—repositories, branches, commits, pull
+Features—encouraging creativity and analytical
+requests—and essential Git commands. Through
+thinking. Dr. Vijaya Chaudhary evaluated the
+hands-on exercises, students created repositories,
+entries, and winners were felicitated with books,
+collaborated on projects, and explored the
+symbolizing continuous learning. The awards went
+benefits of version control and open-source
+to Sampada Payas (MCA), Tejas Borle (CS-AIML),
+contribution. The event was coordinated by Ms.
+and Yash Kute (SY IT-C). The event was
+Yugashree Bhadane and organized by Dr. Poonam
+coordinated by Ms. Yugashree Bhadane and
+Gupta, HoD IT, with guidance from Dr. R. D.
+planned by Dr. Poonam Gupta, HoD IT, with the
+Kharadkar, Campus Director.
+support of Dr. R. D. Kharadkar, Campus Director.
+12 ITSA Magazine ITSA Magazine13
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Event 11 : Expert Lecture on Achieving Educational Excellence
+Through OBE: Understanding Course and Program Outcomes
+Event 13 : Industry Visit to Radiant IT Services Pvt. Ltd., Pune
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune organized an Industry Visit to Radiant IT Services Pvt. Ltd., Pune on
+The Department of Information Technology at G H Raisoni College of Engineering and
+30th August 2024 for second-year students. A total of 44 students explored domains like
+Management, Pune, successfully organized an expert lecture on “Achieving Educational
+web and full-stack development, gaining valuable industry exposure. To strengthen
+Excellence Through OBE: Understanding Course and Program Outcomes” on 29th August
+academia–industry collaboration, an MoU was signed to conduct expert sessions,
+2024 under the professional chapter of IETE. The session was delivered by Dr. Anil Sahu,
+workshops, and internships. The visit proved highly beneficial in aligning students' skills
+Dean of PhD at GHRCEM, Pune, who conducted an insightful discussion on Outcome-
+with industry expectations. The event was coordinated by Ms. Yugashree Bhadane and
+Based Education (OBE) for 58 aspiring students. He explained that OBE is a learner-centric
+organized under the guidance of Dr. Poonam Gupta, HOD IT, with support from
+approach that emphasizes defining clear learning outcomes and aligning teaching,
+Dr. R. D. Kharadkar, Campus Director.
+assessment, and curriculum to achieve them, thereby ensuring that students acquire
+essential knowledge, skills, and competencies for future success. Dr. Sahu elaborated on the
+significance of Course Outcomes, which specify what students should achieve at the end of
+a course, and Program Outcomes, which define broader abilities expected upon program
+completion, both of which align with the institution's mission and vision. By highlighting the
+shift from teaching to learning, he emphasized how OBE enhances instructional design,
+assessment, and career readiness while contributing to societal growth. The session,
+coordinated by Ms. Yugashree Bhadane and organized under the guidance of Dr. Poonam
+Gupta, HOD IT, with the support of Dr. R. D. Kharadkar, Campus Director, was highly
+impactful and well-received.
+Event 14: Parents Teacher Meet
+Event 12: Expert Guidance Session on Smart India Hackathon
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune has organized “Parents Teacher Meet” on 31/08/2024 and 34 parents
+The Department of Information Technology, G H Raisoni College of Engineering and
+participated in the event. Ms.Juhi Agarwal warmly welcomed the parents. Mr.Vijaykumar
+Management, Pune organized an Expert Guidance Session on “Smart India Hackathon
+Patil, parent representative shared his valuable insights about IT department and college.
+2024” under ISTE on 30th August 2024. The session was conducted by Dr. Swapnil Mahajan,
+Dr. Poonam Gupta, HOD-IT welcomed all parents and explained Mission, Vision and PEO,
+Head of Innovation & Incubation, and Ms. Samruddhi Dhamdhere, SIH 2022 finalist and
+PO's, placement and students activity of the department. Ms.Surbhi Pranav, Student
+alumnus, who shared insights on innovation, teamwork, and project development. A total of
+Counselor shared her valuable thoughts on student well-being and growth. Mr.Sachin
+124 students from various departments benefited from their guidance. The session was
+Umare, Head of Training & Placement, guided parents on the college's T &P initiatives and
+coordinated by Ms. Poonam Dhamal and organized under the guidance of Dr. Poonam
+opportunities. The information regarding attendance, class test mark as well as defaulter
+Gupta, HOD IT, with support from Dr. R. D. Kharadkar, Campus Director.
+and detention criteria was given by respective Class teacher to Parents. Parents also asked
+about the academic development of student as well as the placement criteria. Parents
+14 ITSA Magazine ITSA Magazine 15
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+appreciated the efforts taken by the entire team IT in development of students technically accuracy, from which 15 students advanced. Blind Coding Round: The final and most
+and socially. Mrs. Sheetal Aher has coordinated the Parent Teacher Meet. This activity is challenging stage, where participants coded without a compiler or display, testing syntax
+planned and organized by Dr. Poonam Gupta-HOD IT with all support & guidance of Dr. R. D. knowledge, logic, and precision. The event not only enhanced problem-solving abilities but
+Kharadkar, Campus Director. also showcased students' coding talent under pressure. The Blind Coding Contest
+successfully bridged theory with practical application, encouraging innovation, focus, and
+Event 15 : A Day of Gratitude: Teacher's Day Celebration
+accuracy in competitive programming.
+Event 17: Monogram Designing Competition cum Exhibition
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune, organized Teacher's Day on 5th September 2024 under ITSA. The
+celebration began with a ribbon-cutting and a welcome speech by students, expressing The Department of Information Technology, G H Raisoni College of Engineering and
+gratitude to teachers for their guidance and support. Teachers were honored with tokens of Management, Pune organized a Monogram Designing Competition cum Exhibition on 27th
+appreciation, followed by student speeches, a cake-cutting ceremony, and fun activities. September 2024 under IEEE and GeeksforGeeks Student Chapter. A total of 43 students
+Dr. Poonam Gupta, HoD IT, highlighted the vital role of teachers, while Dr. R. D. Kharadkar, showcased their creativity through innovative designs reflecting the department's identity.
+Campus Director, extended support and guidance. The event concluded with a vote of The event was judged by alumnus Mr. Omkar Raut, and 9 best designs (8 for labs and 1 for the
+thanks, leaving behind a memorable and heartfelt celebration. Faculty coordinator: Ms. department) will be copyrighted to recognize and protect students' intellectual property. The
+Yugashree Bhadane. event was coordinated by Ms. Yugashree Bhadane and organized by Dr. Poonam Gupta, HOD
+IT, with guidance from Dr. R.D. Kharadkar, Campus Director.
+Event 16 : Blind Coding Contest: Mastering the
+Art of Code Without Seeing Event 18: Eureka Idea Pitching Competition
+The Department of Information Technology, G H Raisoni College of Engineering and The Department of Information Technology at G H Raisoni College of Engineering and
+Management, Pune, in association with the GeeksforGeeks Student Chapter, organized a Management, Pune, successfully organized the Eureka Idea Pitching Competition on
+“Blind Coding” competition on 26th September 2024, which witnessed enthusiastic September 27, 2024, under the E-Cell, with 51 students from various departments actively
+participation from 230 students. The contest was conducted in three progressive rounds: participating. The event provided a dynamic platform to foster innovation and a data-driven
+MCQ Round: 30 questions on algorithms, data structures, and complexities, filtering the top culture within the institution, highlighting the importance of effectively communicating ideas
+60 students. Average Coding Round: 3 timed coding problems to test efficiency and to transform concepts into impactful realities. Participants were evaluated on key elements of
+16 ITSA Magazine ITSA Magazine 17
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+effective pitching, including clarity of communication, strong value proposition, passion, use Event 20 : AMCAT Conquered- Strategies for High Scores
+of visual aids, and preparedness through practice. Serving as the evaluator, Mr. Omkar Raut,
+Associate Software Engineer at Tech Mahindra, offered valuable insights and feedback, while
+the competition motivated students to refine their ideas and set benchmarks for future
+innovation. The session was coordinated by Ms. Poonam Dhamal and meticulously planned
+by Dr. Poonam Gupta, HOD IT, with the support and guidance of Dr. R. D. Kharadkar, Campus
+Director, making the event a significant step in nurturing entrepreneurial and creative
+thinking among students.
+The Department of Information Technology, GHRCEM Pune, organized an “AMCAT
+Preparations” test on 01/10/2024 for B.Tech students. The Training and Placement Cell also
+conducted a session highlighting career opportunities after AMCAT. A total of 310 students
+participated, gaining insights into effective exam strategies and preparation methods. The
+event was coordinated by Mr. Dnyandeo Khemnar, with support from Dr. Poonam Gupta
+(HOD IT) and guidance from Dr. R. D. Kharadkar, Campus Director.
+Event 19: DSY Induction Program Event 21: Guest Lecture on GenAi – Hype or Reality
+The Department of Information Technology,
+G H Raisoni College of Engineering and
+Management, Pune organized a “DSY
+Induction Program” on 28th September
+2024 for DSY students. The program aimed
+to familiarize students with the department's
+vision, mission, curriculum, research
+initiatives, facilities, and student activities.
+The Department of Information Technology, GHRCEM Pune, organized a guest lecture on
+Dr. Poonam Gupta, HOD IT, addressed the
+“GenAI – Hype or Reality” under ITSA on 05/10/2024 for B.Tech students. Mr. Mihir Nanal,
+students and guided them about academic
+Managing Director at Accenture, introduced students to the potential and challenges of
+opportunities and career paths. A total of 26
+Generative AI. The session explored GenAI's capabilities, real-world impact, and the
+students participated in the session, which
+importance of ethical and responsible development. A total of 60 TY students attended. The
+was coordinated by Mr. Dnyandeo Khemnar.
+session was coordinated by Mr. Dnyandeo Khemnar and organized by Dr. Poonam Gupta
+The program was planned by Dr. Poonam
+(HOD IT) with support from Dr. R. D. Kharadkar, Campus Director.
+Gupta with the support of Dr. R. D. Kharadkar,
+Campus Director.
+18 ITSA Magazine ITSA Magazine 19
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Event 22: Online expert lecture on Bootstrap and Django.
+The Department of Information Technology, GHRCEM Pune, organized an expert lecture on
+DSA and OOP on 5th October 2024 under the banner of CSI. The session focused on core
+The Department of Information Technology, G H
+OOP principles and key data structures, helping students enhance problem-solving and
+Raisoni College of Engineering and Management,
+coding skills. Career guidance and academic tips were also shared. A total of 40 SY students
+Pune organized a guest lecture on “GenAI – Hype or
+participated. The session was coordinated by Ms. Prachi Patil and organized by Dr. Poonam
+Reality” under ITSA on 5th October 2024 for B.Tech
+Gupta (HOD IT) with support from Dr. R. D. Kharadkar, Campus Director.
+students. The session was conducted by Mr. Mihir
+Event 24: Workshop on Build Your Own AI Avatar
+Nanal, Managing Director at Accenture. He provided
+an insightful introduction to Generative AI (GenAI),
+highlighting its rapid rise and real-world applications.
+Mr. Nanal discussed how GenAI is transforming
+industries through its ability to generate images, write
+code, and simulate human-like conversations. He also
+emphasized the importance of understanding both
+the potential and limitations of this emerging
+technology. Key concerns such as data bias,
+The Department of Information Technology, G H Raisoni College of Engineering and
+misinformation, and ethical implications were
+Management, Pune, organized a Workshop on “Build Your Own AI Avatar” on October 8,
+addressed. The session encouraged students to think
+2024, under IEEE in association with NxtWave Pvt. Ltd. The workshop introduced 65 students
+critically about the future of AI and the need for
+from various departments to AI concepts and avatar creation, offering hands-on experience
+responsible innovation. A total of 60 third-year B.Tech
+in designing and coding simple AI avatars. Participants worked in pairs, explored software
+students attended and benefited from the
+tools, and developed creative AI-based solutions. Mr. Abhinav Devaguptapu, Curriculum
+discussion. The session was coordinated by Mr. Dnyandeo Khemnar, who also proposed the
+Development Manager at NxtWave, served as the resource person. The session was
+vote of thanks. It was planned and organized by Dr. Poonam Gupta (HOD IT), with the coordinated by Mr. Sahebrao Bhalshankar, and planned by Dr. Poonam Gupta, HoD IT, with
+support and guidance of Dr. R. D. Kharadkar, Campus Director. the guidance of Dr. R. D. Kharadkar, Campus Director.
+Event 25: Expert Session on Career Opportunities after
+Event 23 : Expert Lecture on Boost Your Career Prospects:
+B Tech and Other Competitive Exams
+Master OOP and DSA
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune organized a session on “Career Opportunities after B. Tech and Other
+Competitive Examinations” on 9th October 2024 under ITSA. Mr. Kaushik Agastyaraj, Faculty
+at ACE, guided students on diverse career paths after B.Tech, including software
+development, core engineering roles, higher studies, and competitive exams like GATE, IES,
+and PSU. The session encouraged students to align their aspirations with suitable
+opportunities and plan strategically for a fulfilling career. A total of 70 B.Tech students
+participated. The session was coordinated by Mr. Dnyandeo Khemnar and planned by
+Dr. Poonam Gupta, HoD IT, with the support of Dr. R. D. Kharadkar, Campus Director.
+20 ITSA Magazine ITSA Magazine21
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Dhamal and planned by Dr. Poonam Gupta, HoD IT, with the support of Dr. R. D. Kharadkar,
+Campus Director.
+Event 26 : Significance of Community Detection Algorithms in
+Real World Applications
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune organized an Expert Lecture on “Significance of Community Detection Event 28: Code Conquer: A Key for Placements
+Algorithms in Real-World Applications” on 15th October 2024 under ISTE. The session was
+delivered online by Dr. Sumit Kumar Gupta, Assistant Professor, IIIT Pune. The lecture
+introduced students to the fundamentals of community detection algorithms, their
+types—such as modularity-based, hierarchical, and statistical methods—and explored
+applications in social networks, biology, and cybersecurity. A total of 143 SY and TY students
+attended, gaining valuable insights into analyzing complex networks. The session was
+planned and organized by Dr. Poonam Gupta, HoD IT, with the support of Dr. R. D. Kharadkar,
+Campus Director.
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune organized an interactive alumni session “Code Conquer: A Key for
+Placements” on 15th July 2024. Mr. Pavan Patel, Software Development Engineer at Jade
+Global and proud alumnus, guided SY students on preparing for careers in the IT industry. He
+highlighted the differences between service-based and product-based companies, the
+importance of data structures, and useful resources such as LeetCode, HackerRank,
+Codeforces, AtCoder, CodeChef, Striver's A2Z DSA, takeUforward, and GSoC. He also shared
+insights into game development as a career path. The session was coordinated by Ms.
+Yugashree Bhadane and planned by Dr. Poonam Gupta, HoD IT, with the support of Dr. R. D.
+Kharadkar, Campus Director.
+Event 27: Educational tour to COEP's Bhau Institute of
+Event 29: Expert Session on Copyright, Patent, Project
+Innovation, Entrepreneurship and Leadership
+Sponsorship & Writing Research Articles
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune organized an educational tour under ITSA to the Bhau Institute of
+Innovation, Entrepreneurship, and Leadership, COEP. A total of 27 students participated,
+gaining exposure to innovation processes, entrepreneurship opportunities, and leadership
+development activities. The visit provided hands-on insights into incubation facilities,
+networking platforms, and real-world applications of classroom knowledge, motivating
+students to explore entrepreneurial pathways. The tour was coordinated by Ms. Poonam
+22 ITSA Magazine ITSA Magazine 23
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Student Corner
+The Department of Information Technology, G H Raisoni College of Engineering and
+Management, Pune organized an Expert Session on “Copyright, Patent, Project Sponsorship
+Drawings by students
+& Writing Research Articles” on 18th July 2024. Prof. Yugashree Bhadane, Assistant
+Professor, welcomed and introduced the experts Dr. Poonam Gupta (HoD IT) and Dr. Shaikh
+Abdul Waheed. The session covered key aspects of B.Tech projects, including compulsory
+tasks, copyright, patents, sponsorship, research article and report writing, as well as
+plagiarism checks using tools like Turnitin. Students were also encouraged to participate in
+hackathons, pursue industry sponsorships, and publish research in reputed journals (UGC
+Care, IEEE, Springer). Around 15+ project groups benefited from the event, which aimed to
+enhance project quality and academic integrity. The session was coordinated by Dr. Shaikh
+Abdul Waheed and planned under the guidance of Dr. Poonam Gupta, HoD IT, with the
+support of Dr. R. D. Kharadkar, Campus Director.
+“PRATIMA: SCLUPTURES OF TECHNOLOGY Model Exhibition”
+Event 30: Ideathon 2024 Organized by ICT Academy under
+Collaboration of Capgemini and Barclays Bank
+Drawing by Shubhankar Patil Drawing by Mukundraj Bhosale
+The Department of Information Technology, GHRCEM, Pune participated in Ideathon 2024,
+organized by ICT Academy in collaboration with Capgemini and Barclays Bank, focusing on
+themes like Diversity & Inclusion, Sustainable Jobs, Connectivity, and Responsible Growth.
+An orientation session was conducted on 8th August 2024, after which 30+ IT teams
+registered, and 4 teams were shortlisted among the top 20 to present their ideas at Barclays
+Campus with assigned mentors. Students attended three master classes (6th Sept, 30th
+Sept, and 4th Oct) on innovation, trends, and presentation skills, which prepared them for the
+semi-final and final rounds. Competing among 106 registered teams, 10 teams from
+GHRCEM reached the finals. The winning team “New Gen Innovators” secured 1st Prize of
+`1,00,000, followed by “Concept Crew” (`75,000) and “Power Rangers 2.0” (`25,000).
+Other innovative projects included Signage (Sign language translator), Solution Crafters
+(jobs in rural areas), Passionate (Smart Irrigation), and Tridhara (Eco-friendly Hair Disposal).
+The event was coordinated by Prof. Neelesh Sirdeshmukh under the guidance of Dr. Poonam
+Gupta, HOD IT, and Dr. R. D. Kharadkar, Campus Director.
+Drawing by Ashitosh Thorat Drawing by Harsh Patel
+24 ITSA Magazine ITSA Magazine25
+Term I (June – Dec 2024-25) Term I (June – Dec 2024)-25
+
+prophets of Lingayat religion, believed that birth of this saint caused the prosperity of the
+city and the deity is capable of blessing the devotees.The picture depicts a serene view of
+Siddheshwar Lake in Solapur, Maharashtra. The lake is calm and reflective, surrounded by lush
+greenery and buildings in the distance. On the left side of the image, part of a building with a
+pinkish hue is visible, adorned with trees and plants, adding to the picturesque setting. The
+sky above is partly cloudy, with light blue and white hues, enhancing the tranquil ambiance.
+The overall scene captures the peaceful and scenic beauty of the area around Siddheshwar
+Temple, highlighting its natural and architectural charm.
+Drawing by Shivam Shelake Drawing by Mansi Rakhonde
+Photography by Yogesh Nirve Photography Manish Koli
+Siddheshwar Temple, Solapur photography by Sahil Lokhande
+Located amidst a lake further flanked by Bhuikot fort, Siddheshwar temple is sacred to Lord
+Siddheshwar, who is considered as an incarnation of Lord Shiva and Lord Vishnu. The temple
+is highly revered by the devotees as it is the place where Shri Siddheshwar attained Samadhi.
+In the main temple complex, there is a beautiful sanctum, which features the idol of
+Siddheshwar. Also in the main courtyard, there are 68 shiva lingams, which were installed by
+Lord Siddheshwar. Amrit Linga and Lord Ganesha temples are special mentions. Silver-plated
+Nandi, and the temple of Vithoba and Goddes Rukmini along with the various other gods are
+a part of the temple. In the middle of the temple, there is a marble tomb of Siddheshwar. This
+temple was built by a yogi, and a devotee of Shri Mallikarjuna of Srisailam, Shri
+Siddharameshwar. He built this temple and made 68 Shiva lingams in the temple as per the
+instructions of his guru. It is said that Shri Siddheshwar, who is also considered as the six Photography by Shivam Kalekar Photography by Mukundraj Bhosale
+26 ITSA Magazine ITSA Magazine 27
+Term I (June – Dec 2024-25) Term I (June – Dec 2024)-25
+
+Department Achievements
+Copyright Details
+• 9 UG Project Groups Applied for Copyright
+NPTEL Achievement
+• 12 Copyrights are registered
+28 ITSA Magazine ITSA Magazine29
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Students Achievements
+Selected for Final round of SIH Hackthon 2024 National Institute of Technology
+Karnataka (NITK), Surathkal
+1st Winner in National Level 19th AISSMS Hackathon, Pune
+Ideathon 2024 Organized by ICT Academy under Collaboration of Capgemini and
+Barclays Bank
+3rd Winner in National Level VCET Hackthon, Palghar.
+1st Winner in National Level Tietoevry Hackathon at COEP, Pune
+30ITSA Magazine ITSA Magazine31
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Placement Details
+FDP/ STTP Attended by Faculty
+Offer Letter from IIT Bombay for Campus Ambassador Post
+Inter-Zonal Swimming Competition
+32 ITSA Magazine ITSA Magazine 33
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Patent Granted and Published
+Mrs. Priya Waghmare (Ujawe), Asst. Prof. has Patent granted & Published on
+title “Artificial Intelligence Based Thermal Surveillance Ro bot”
+34 ITSA Magazine ITSA Magazine 35
+Term I (June – Dec 2024-25) Term I (June – Dec 2024-25)
+
+Faculty Achievements
+36 ITSA Magazine
+Term I (June – Dec 2024-25)
+

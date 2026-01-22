@@ -1,0 +1,105 @@
+{
+  "contact": {
+    "department": {
+      "name": "Information Technology Department",
+      "college": "GH Raisoni College of Engineering and Management, Pune",
+      "abbreviation": "GHRCEM",
+      "established": "2007",
+      "affiliation": "Savitribai Phule Pune University (SPPU)",
+      "accreditation": "NAAC A+ Grade & NBA"
+    },
+    "address": {
+      "street": "Gat No. 1200, Domkhel Road",
+      "city": "Wagholi",
+      "state": "Maharashtra",
+      "pincode": "412207",
+      "country": "India"
+    },
+    "phone": [
+      {
+        "type": "Department",
+        "number": "+91-20-6708-0800",
+        "extension": "IT Department"
+      },
+      {
+        "type": "Admissions",
+        "number": "+91-20-6708-0900",
+        "extension": "Admissions Cell"
+      },
+      {
+        "type": "Placement",
+        "number": "+91-20-6708-0950",
+        "extension": "Training & Placement"
+      }
+    ],
+    "email": [
+      {
+        "type": "General",
+        "address": "itsa@ghrcem.ac.in"
+      },
+      {
+        "type": "Admissions",
+        "address": "admission@ghrcem.raisoni.net"
+      },
+      {
+        "type": "Placements",
+        "address": "placements@ghrcem.ac.in"
+      },
+      {
+        "type": "Main",
+        "address": "ghrcem.pune@raisoni.net"
+      }
+    ],
+    "website": {
+      "main": "http://ghrcemp.raisoni.net",
+      "portal": "http://portal.ghrcemp.ac.in"
+    },
+    "hours": {
+      "weekdays": "9:00 AM - 6:00 PM",
+      "saturday": "9:00 AM - 2:00 PM",
+      "sunday": "Closed"
+    },
+    "location": {
+      "latitude": 18.5204,
+      "longitude": 73.9567,
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.9359464095636!2d73.95674!3d18.52044!2m3!1f0!2f0!3f0!3m2!1iGHRAM!2sGH%20Raisoni%20College%20of%20Engineering%20and%20Management%2C%20Pune!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    "social": {
+      "facebook": "https://facebook.com/ghrcem",
+      "twitter": "https://twitter.com/ghrcem",
+      "linkedin": "https://linkedin.com/company/ghrcem",
+      "instagram": "https://instagram.com/ghrcem_official",
+      "youtube": "https://youtube.com/@ghrcem"
+    }
+  },
+  "departments": [
+    {
+      "id": 1,
+      "name": "Computer Science & Engineering",
+      "code": "CSE",
+      "hod": "Dr. Poonam Gupta",
+      "established": "2006"
+    },
+    {
+      "id": 2,
+      "name": "Information Technology",
+      "code": "IT",
+      "hod": "Dr. Poonam Gupta",
+      "established": "2007"
+    },
+    {
+      "id": 3,
+      "name": "Electronics & Telecommunication",
+      "code": "E&TC",
+      "hod": "Dr. Sharma",
+      "established": "2006"
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Engineering",
+      "code": "ME",
+      "hod": "Prof. Singh",
+      "established": "2006"
+    }
+  ]
+}
