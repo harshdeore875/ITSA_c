@@ -23,7 +23,7 @@
     "core_committee": [
       {
         "id": 1,
-        "name": "Shivraj Halgode",
+        "name": "Aditya Bawaskar",
         "role": "President",
         "year": "B.Tech",
         "image": "/images/committee/president.jpg"
@@ -66,6 +66,13 @@
       {
         "id": 7,
         "name": "Adarsh Kumar Chaurasia",
+        "role": "Web Master",
+        "year": "SY",
+        "image": "/images/committee/webmaster.jpg"
+      },
+       {
+        "id": 8,
+        "name": "Harsh Deore",
         "role": "Web Master",
         "year": "SY",
         "image": "/images/committee/webmaster.jpg"

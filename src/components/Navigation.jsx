@@ -36,9 +36,11 @@ export default function Navigation() {
           {/* Logo */}
           <Link to="/" className="flex-shrink-0">
             <div className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-500 to-violet-600 flex items-center justify-center">
-                <span className="text-white font-bold text-sm">IT</span>
-              </div>
+              <img 
+                src="/images/image.png" 
+                alt="ITSA Logo" 
+                className="w-12 h-12 object-contain"
+              />
               <span className="text-white font-bold hidden sm:inline">ITSA</span>
             </div>
           </Link>

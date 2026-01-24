@@ -141,6 +141,29 @@ html.has-scroll-smooth body {
   transform: translateY(0);
 }
 
+/* About page visibility fixes */
+.about-section {
+  position: relative;
+  display: block;
+  width: 100%;
+  clear: both;
+}
+
+.about-section * {
+  display: block;
+}
+
+/* Ensure grid items don't collapse */
+.about-section div[class*="grid"] {
+  display: grid;
+}
+
+/* Ensure cards are visible */
+.about-section div[class*="rounded"] {
+  visibility: visible;
+  opacity: 1;
+}
+
 /* Backdrop blur */
 .backdrop-blur-nav {
   backdrop-filter: blur(10px);
