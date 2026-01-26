@@ -38,16 +38,16 @@ export default function StatsSection() {
   }, [stats]);
    console.log("hello word");
   return (
-    <section ref={containerRef} className="py-20 bg-gradient-to-b from-slate to-navy relative overflow-hidden">
+    <section ref={containerRef} className="py-20 bg-gradient-to-r from-blue-50 to-slate-50 relative overflow-hidden border-b-2 border-borderNeutral">
       {/* Decorative elements */}
-      <div className="absolute top-0 left-0 w-96 h-96 bg-indigo-500 rounded-full mix-blend-multiply filter blur-3xl opacity-5" />
+      <div className="absolute top-0 left-0 w-96 h-96 bg-primary rounded-full mix-blend-multiply filter blur-3xl opacity-5" />
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Our <span className="gradient-text">Impact</span>
+          <h2 className="text-4xl md:text-5xl font-bold text-textPrimary mb-4">
+            Our <span className="gradient-heading-smooth">Impact</span>
           </h2>
-          <p className="text-gray-400 text-lg">Academic Year 2024–25 </p>
+          <p className="text-textSecondary text-lg">Academic Year 2024–25 </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -55,15 +55,15 @@ export default function StatsSection() {
           
             <div
               key={idx}
-              className="group p-8 rounded-2xl bg-gradient-to-br from-indigo-900/20 to-violet-900/20 border border-indigo-500/30 hover:border-indigo-400/60 transition-all duration-300 hover:shadow-lg hover:shadow-indigo-500/20 text-center"
+              className="group p-8 rounded-2xl bg-white border border-borderNeutral hover:border-primary/60 transition-all duration-300 hover:shadow-lg hover:shadow-primary/20 text-center"
             >
-              <div className="mb-4 text-5xl md:text-6xl font-bold gradient-text">
+              <div className="mb-4 text-5xl md:text-6xl font-bold gradient-heading-smooth">
                 <span>
                   {stat.number}
                 </span>
                 <span>{stat.suffix}</span>
               </div>
-              <p className="text-gray-300 font-medium group-hover:text-indigo-300 transition-colors">
+              <p className="text-textSecondary font-medium group-hover:text-secondary transition-colors">
                 {stat.label}
               </p>
             </div>

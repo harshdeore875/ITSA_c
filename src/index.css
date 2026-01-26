@@ -4,6 +4,22 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Perfect Gradient Text Component */
+@layer components {
+  .gradient-heading {
+    @apply bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent;
+    background-attachment: fixed;
+  }
+  
+  .gradient-heading-smooth {
+    @apply bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    filter: saturate(1.15) brightness(1.05);
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -15,8 +31,8 @@ html {
 }
 
 body {
-  background-color: #0f1a2e;
-  color: #e5e7eb;
+  background-color: #FFFFFF;
+  color: #1F2937;
   font-family: 'Inter', sans-serif;
   overflow-x: hidden;
 }
@@ -46,7 +62,7 @@ html.has-scroll-smooth body {
   top: 0;
   right: 0;
   width: 100%;
-  background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+  background: linear-gradient(135deg, #7C3AED 0%, #9333EA 100%);
   opacity: 0.5;
   border-radius: 10px;
   transition: opacity 0.3s ease;
@@ -181,6 +197,59 @@ html.has-scroll-smooth body {
   box-shadow: 0 20px 40px rgba(99, 102, 241, 0.2);
 }
 
+/* Perfect Gradient Text - Ensures smooth, vivid gradient text display */
+.gradient-text {
+  background: linear-gradient(90deg, #7C3AED 0%, #9333EA 50%, #F5B301 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  background-attachment: fixed;
+  filter: brightness(1.1) contrast(1.1);
+}
+
+/* Enhanced Section Separation Styles */
+section {
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+section:nth-child(even) {
+  background-color: #F8FAFC;
+  border-top: 1px solid #E5E7EB;
+  border-bottom: 1px solid #E5E7EB;
+}
+
+section:nth-child(odd) {
+  background-color: #FFFFFF;
+  border-top: 1px solid #E5E7EB;
+  border-bottom: 1px solid #E5E7EB;
+}
+
+section:nth-child(odd):after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #E5E7EB, transparent);
+}
+
+/* Additional spacing between sections */
+section {
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
+}
+
+section:nth-child(2) {
+  margin-top: 0;
+}
+
+/* Subtle section shadow enhancement */
+section:nth-child(2n) {
+  box-shadow: inset 0 1px 0 rgba(124, 58, 237, 0.05);
+}
+
 /* Smooth scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
@@ -191,10 +260,10 @@ html.has-scroll-smooth body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+  background: linear-gradient(135deg, #7C3AED 0%, #9333EA 100%);
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(135deg, #818cf8 0%, #d946ef 100%);
+  background: linear-gradient(135deg, #9333EA 0%, #F5B301 100%);
 }

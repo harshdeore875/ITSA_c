@@ -6,14 +6,13 @@ import AboutPage from './pages/AboutPage';
 import CommitteePage from './pages/CommitteePage';
 import EventsPage from './pages/EventsPage';
 import GalleryPage from './pages/GalleryPage';
-import AchievementsPage from './pages/AchievementsPage';
 import ContactPage from './pages/ContactPage';
 
 
 function App() {
   return (
     <Router>
-      <div className="w-full min-h-screen bg-navy">
+      <div className="w-full min-h-screen ">
         <Navigation />
         <main className="pt-16">
           <Routes>
@@ -22,7 +21,6 @@ function App() {
             <Route path="/committee" element={<CommitteePage />} />
             <Route path="/events" element={<EventsPage />} />
             <Route path="/gallery" element={<GalleryPage />} />
-            <Route path="/achievements" element={<AchievementsPage />} />
             <Route path="/contact" element={<ContactPage />} />
           </Routes>
         </main>

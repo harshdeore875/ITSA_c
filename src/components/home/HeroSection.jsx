@@ -57,21 +57,20 @@ useLayoutEffect(() => {
 }, []);
 
   return (
-    <section className="relative w-full h-screen flex items-center justify-center overflow-hidden pt-20">
+    <section className="relative w-full h-screen flex items-center justify-center overflow-hidden pt-20 bg-bg-primary border-b-2 border-borderNeutral">
       {/* Gradient Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-navy via-slate-900 to-navy opacity-90" />
-
+      <div className="absolute inset-0 bg-hero-gradient opacity-5" />
 
       {/* Animated background circles */}
-      <div className="absolute top-20 right-10 w-96 h-96 bg-indigo-400 rounded-full opacity-10 animate-float" />
-      <div className="absolute bottom-20 left-10 w-96 h-96 bg-violet-200 rounded-full opacity-10 animate-float" style={{ animationDelay: '2s' }} />
+      <div className="absolute top-20 right-10 w-96 h-96 bg-primary rounded-full opacity-10 animate-float" />
+      <div className="absolute bottom-20 left-10 w-96 h-96 bg-secondary rounded-full opacity-10 animate-float" style={{ animationDelay: '2s' }} />
 
-      <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8  text-center">
         {/* Main Title */}
-        <div ref={titleRef} className="mb-6 space-y-2">
+        <div ref={titleRef} className="mb-6 pt-11 space-y-2 ">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-black leading-tight text-reveal">
             {hero.title.split('\n').map((line, idx) => (
-              <span className="text-reveal-line block bg-gradient-to-r from-indigo-400 via-violet-400 to-white bg-clip-text text-transparent drop-shadow-[0_2px_10px_rgba(99,102,241,0.35)]">
+              <span className="text-reveal-line block  bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent drop-shadow-[0_2px_10px_rgba(124,58,237,0.35)]">
                 {line}
               </span>
             ))}
@@ -82,24 +81,23 @@ useLayoutEffect(() => {
         <p
           ref={subtitleRef}
           className="text-lg md:text-2xl max-w-2xl mx-auto mt-12 mb-10">
-          <span className="text-indigo-300 font-semibold tracking-wide
-                 drop-shadow-[0_3px_14px_rgba(0,0,0,0.95)]">
+          <span className="text-secondary font-semibold tracking-wide">
             {hero.subtitle}
           </span>
 
         </p>
 
-        {/* Description */}
-        <p className="text-slate-300/90 text-base md:text-lg mb-12">
+        {/* Description
+        <p className="text-textSecondary text-base md:text-lg mb-12">
           {hero.description}
-        </p>
+        </p> */}
 
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row justify-center gap-4 mb-16">
-          <a href={hero.ctaLink} className="px-8 py-4 bg-gradient-to-r from-indigo-600 to-violet-600 text-white rounded-lg hover:shadow-lg hover:shadow-indigo-500/50 transition-all duration-300 font-semibold inline-block">
+          <a href={hero.ctaLink} className="px-8 py-4 bg-btn-gradient text-white rounded-lg hover:shadow-lg hover:shadow-primary/50 transition-all duration-300 font-semibold inline-block">
             {hero.cta}
           </a>
-          <button className="px-8 py-4 border-2 border-indigo-500 text-indigo-400 rounded-lg hover:bg-indigo-500/10 transition-all duration-300 font-semibold">
+          <button className="px-8 py-4 border-2 border-secondary text-secondary rounded-lg hover:bg-secondary/10 transition-all duration-300 font-semibold">
             Learn More
           </button>
         </div>
@@ -109,8 +107,8 @@ useLayoutEffect(() => {
           ref={scrollIndicatorRef}
           className="flex justify-center"
         >
-          <div className="w-6 h-10 border-2 border-indigo-400 rounded-full flex items-center justify-center">
-            <ChevronDown size={20} className="text-indigo-400" />
+          <div className="w-6 h-10 border-2 border-secondary rounded-full flex items-center justify-center">
+            <ChevronDown size={20} className="text-secondary" />
           </div>
         </div>
       </div>

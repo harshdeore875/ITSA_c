@@ -51,25 +51,25 @@ export default function GalleryPage() {
   const categories = selectedYear ? Object.keys(galleryData[selectedYear] || {}) : [];
 
   return (
-    <div ref={containerRef} className="w-full bg-navy">
+    <div ref={containerRef} className="w-full bg-white">
       {/* Hero Section */}
-      <section className="relative pt-32 pb-20 px-4 md:px-8">
+      <section className="relative pt-32 pb-20 px-4 md:px-8 bg-white border-b-2 border-borderNeutral">
         <div className="max-w-7xl mx-auto">
-          <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
-            Our <span className="gradient-text">Gallery</span>
+          <h1 className="text-5xl md:text-7xl font-bold text-textPrimary mb-6">
+            Our <span className="gradient-heading-smooth">Gallery</span>
           </h1>
-          <p className="text-xl text-gray-300 max-w-3xl">
+          <p className="text-xl text-textSecondary max-w-3xl">
             Explore moments from our events, competitions, and community activities throughout the years.
           </p>
         </div>
       </section>
 
       {/* Filters */}
-      <section className="py-12 bg-slate border-b border-indigo-900/20">
+      <section className="py-12 bg-gradient-to-r from-blue-50 to-slate-50 border-b-2 border-borderNeutral">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Year Selection */}
           <div className="mb-8">
-            <h3 className="text-white font-semibold mb-4">Select Year</h3>
+            <h3 className="text-textPrimary font-semibold mb-4">Select Year</h3>
             <div className="flex flex-wrap gap-3">
               {years.map((year) => (
                 <button
@@ -80,8 +80,8 @@ export default function GalleryPage() {
                   }}
                   className={`px-4 py-2 rounded-lg transition-all duration-300 font-medium ${
                     selectedYear === year
-                      ? 'bg-gradient-to-r from-indigo-600 to-violet-600 text-white shadow-lg shadow-indigo-500/50'
-                      : 'bg-indigo-900/30 text-indigo-300 border border-indigo-500/30 hover:border-indigo-400/60'
+                      ? 'bg-btn-gradient text-white shadow-lg shadow-primary/50'
+                      : 'bg-white text-textPrimary border border-borderNeutral hover:border-primary/60'
                   }`}
                 >
                   {year === '2024-25' ? '2024–25' : '2023–24'}
@@ -93,14 +93,14 @@ export default function GalleryPage() {
           {/* Category Selection */}
           {categories.length > 0 && (
             <div>
-              <h3 className="text-white font-semibold mb-4">Filter by Category</h3>
+              <h3 className="text-textPrimary font-semibold mb-4">Filter by Category</h3>
               <div className="flex flex-wrap gap-3">
                 <button
                   onClick={() => setSelectedCategory(null)}
                   className={`px-4 py-2 rounded-lg transition-all duration-300 font-medium ${
                     selectedCategory === null
-                      ? 'bg-gradient-to-r from-indigo-600 to-violet-600 text-white shadow-lg shadow-indigo-500/50'
-                      : 'bg-indigo-900/30 text-indigo-300 border border-indigo-500/30 hover:border-indigo-400/60'
+                      ? 'bg-btn-gradient text-white shadow-lg shadow-primary/50'
+                      : 'bg-white text-textPrimary border border-borderNeutral hover:border-primary/60'
                   }`}
                 >
                   All
@@ -111,8 +111,8 @@ export default function GalleryPage() {
                     onClick={() => setSelectedCategory(category)}
                     className={`px-4 py-2 rounded-lg transition-all duration-300 font-medium ${
                       selectedCategory === category
-                        ? 'bg-gradient-to-r from-indigo-600 to-violet-600 text-white shadow-lg shadow-indigo-500/50'
-                        : 'bg-indigo-900/30 text-indigo-300 border border-indigo-500/30 hover:border-indigo-400/60'
+                        ? 'bg-btn-gradient text-white shadow-lg shadow-primary/50'
+                        : 'bg-white text-textPrimary border border-borderNeutral hover:border-primary/60'
                     }`}
                   >
                     {category}
@@ -125,11 +125,11 @@ export default function GalleryPage() {
       </section>
 
       {/* Gallery Grid (Masonry Layout) */}
-      <section className="py-20 bg-navy">
+      <section className="py-20 bg-white border-b-2 border-borderNeutral">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {filteredImages.length === 0 ? (
             <div className="text-center py-20">
-              <p className="text-gray-400 text-xl">No images found in this category.</p>
+              <p className="text-textSecondary text-xl">No images found in this category.</p>
             </div>
           ) : (
             <div className="columns-1 md:columns-2 lg:columns-3 gap-6 space-y-6">
@@ -139,7 +139,7 @@ export default function GalleryPage() {
                   className="gallery-item group relative overflow-hidden rounded-2xl break-inside-avoid cursor-pointer"
                   onClick={() => setSelectedImage(image)}
                 >
-                  <div className="relative overflow-hidden rounded-2xl border border-indigo-900/30 hover:border-indigo-400/60 transition-all duration-300">
+                  <div className="relative overflow-hidden rounded-2xl border border-borderNeutral hover:border-primary/60 transition-all duration-300">
                     <img
                       src={image.src || getImagePlaceholder()}
                       alt={image.alt}
@@ -172,7 +172,7 @@ export default function GalleryPage() {
               alt={selectedImage.alt}
               className="w-full h-auto rounded-2xl"
             />
-            <p className="text-gray-300 text-center mt-4">{selectedImage.alt}</p>
+            <p className="text-white text-center mt-4">{selectedImage.alt}</p>
           </div>
         </div>
       )}

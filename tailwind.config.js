@@ -7,17 +7,26 @@ export default {
   theme: {
     extend: {
       colors: {
+        // ITSA Brand Colors - Matching Logo & College Palette
+        primary: '#7C3AED',           // Royal Purple
+        secondary: '#F5B301',         // Tech Gold (from logo)
+        accent: '#9333EA',            // Electric Violet
+        dark: '#0F0F14',              // Charcoal Black
+        textPrimary: '#1F2937',       // Dark text
+        textSecondary: '#6B7280',     // Medium gray
+        borderNeutral: '#E5E7EB',     // Light border
+        
         // Page-Level Elements
-        'bg-primary': '#F8FAFC',
-        'bg-section': '#F1F5F9',
-        'bg-card': '#FFFFFF',
+        'bg-primary': '#FFFFFF',      // White background (clean)
+        'bg-section': '#F8FAFC',      // Light gray section
+        'bg-card': '#FFFFFF',         // White cards
         'divider': '#E5E7EB',
         
         // Typography
-        'text-primary': '#0F172A',
-        'text-body': '#475569',
-        'text-muted': '#64748B',
-        'text-disabled': '#94A3B8',
+        'text-primary': '#1F2937',
+        'text-body': '#6B7280',
+        'text-muted': '#9CA3AF',
+        'text-disabled': '#D1D5DB',
         'text-link': '#7C3AED',
         'text-link-hover': '#6D28D9',
         
@@ -26,25 +35,19 @@ export default {
         'btn-primary-text': '#FFFFFF',
         'btn-primary-hover': '#6D28D9',
         'btn-primary-active': '#5B21B6',
-        'btn-primary-disabled-bg': '#DDD6FE',
-        'btn-primary-disabled-text': '#FFFFFF',
         
         // Buttons - Secondary
-        'btn-secondary-bg': '#EDE9FE',
-        'btn-secondary-text': '#7C3AED',
-        'btn-secondary-hover': '#DDD6FE',
-        'btn-secondary-border': '#C4B5FD',
-        
-        // Buttons - Ghost
-        'btn-ghost-text': '#7C3AED',
-        'btn-ghost-hover': '#F5F3FF',
+        'btn-secondary-bg': '#F5B301',
+        'btn-secondary-text': '#000000',
+        'btn-secondary-hover': '#D49706',
+        'btn-secondary-border': '#F5B301',
         
         // Form Elements
         'form-bg': '#FFFFFF',
         'form-border': '#E5E7EB',
-        'form-focus-border': '#A78BFA',
-        'form-placeholder': '#94A3B8',
-        'form-text': '#0F172A',
+        'form-focus-border': '#7C3AED',
+        'form-placeholder': '#9CA3AF',
+        'form-text': '#1F2937',
         
         // Validation
         'validation-error-border': '#DC2626',
@@ -55,22 +58,37 @@ export default {
         'nav-bg': '#FFFFFF',
         'nav-border': '#E5E7EB',
         'nav-logo': '#7C3AED',
-        'nav-text': '#475569',
-        'nav-active': '#7C3AED',
-        'nav-active-bg': '#EDE9FE',
+        'nav-text': '#1F2937',
+        'nav-active': '#F5B301',
+        'nav-active-bg': '#FEF3C7',
         
         // Cards & Containers
         'card-bg': '#FFFFFF',
         'card-border': '#E5E7EB',
-        'card-title': '#0F172A',
-        'card-text': '#475569',
-        'card-shadow': 'rgba(0, 0, 0, 0.08)',
+        'card-title': '#1F2937',
+        'card-text': '#6B7280',
+        'card-shadow': 'rgba(124, 58, 237, 0.1)',
         
-        // Legacy navy theme
-        'navy': '#0f1a2e',
-        'slate': '#1a2744',
-        'indigo-accent': '#6366f1',
-        'violet-accent': '#a855f7',
+        // Hero Background
+        'hero-bg': '#0F0F14',
+        'hero-text': '#FFFFFF',
+        
+        // Legacy colors (backward compatibility)
+        'navy': '#7C3AED',
+        'slate': '#F8FAFC',
+        'indigo-accent': '#7C3AED',
+        'violet-accent': '#9333EA',
+      },
+      backgroundImage: {
+        'hero-gradient': 'linear-gradient(135deg, #0F0F14 0%, #2D1B4E 45%, #7C3AED 100%)',
+        'btn-gradient': 'linear-gradient(135deg, #7C3AED, #9333EA)',
+        'btn-gradient-hover': 'linear-gradient(135deg, #9333EA, #7C3AED)',
+        'accent-gradient': 'linear-gradient(135deg, #7C3AED, #F5B301)',
+      },
+      boxShadow: {
+        'btn-glow': '0 8px 24px rgba(124, 58, 237, 0.4)',
+        'card-hover': '0 12px 32px rgba(124, 58, 237, 0.18)',
+        'primary': '0 4px 16px rgba(124, 58, 237, 0.15)',
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
