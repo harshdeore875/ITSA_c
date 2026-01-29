@@ -7,8 +7,9 @@
       "date": "2024-06-18",
       "description": "Comprehensive Skill Development Program on Data Analytics conducted by internal faculty and industry expert Ms. Swati Joshi from Deutsche Bank. Equipped over 90 students with practical knowledge on data analytics techniques and tools.",
       "coordinators": ["Dr. Vijaya Choudhary", "Ms. Swati Joshi (Deutsche Bank)"],
-      "image": "/images/events/data-analytics.jpg",
-      "year": "2024–25 Term I"
+      "image": "/images/events/industrial_visit.png",
+      "year": "2024–25 Term I",
+      "status": "past"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "description": "Tree plantation drive at Green Sunrise Hills, Wagholi. Students planted Jamun saplings to promote sustainability, improve air quality, and support biodiversity.",
       "coordinators": ["Ms. Yugashree Bhadane", "Ms. Archana Dongardive"],
       "image": "/images/events/tree-plantation.jpg",
-      "year": "2024–25 Term I"
+      "year": "2024–25 Term I",
+      "status":"upcoming"
     },
     {
       "id": 3,
@@ -300,7 +302,8 @@
       "description": "Annual technology festival featuring coding challenges, tech talks, and networking events.",
       "coordinators": ["Dr. Poonam Gupta"],
       "image": "/images/events/techfest-2023.jpg",
-      "year": "2023–24"
+      "year": "2023–24",
+      "status": "past"
     }
   ]
 }

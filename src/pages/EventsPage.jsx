@@ -10,15 +10,21 @@ gsap.registerPlugin(ScrollTrigger);
 export default function EventsPage() {
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [selectedEvent, setSelectedEvent] = useState(null);
-  const [filteredEvents, setFilteredEvents] = useState([]);
+  const [filteredPastEvents, setFilteredPastEvents] = useState([]);
+  const [filteredUpcomingEvents, setFilteredUpcomingEvents] = useState([]);
   const containerRef = useRef(null);
 
   useEffect(() => {
     const allEvents = Object.values(eventsData).flat();
+    const pastEvents = allEvents.filter((e) => e.status === 'past');
+    const upcomingEvents = allEvents.filter((e) => e.status === 'upcoming');
+
     if (selectedCategory === 'All') {
-      setFilteredEvents(allEvents);
+      setFilteredPastEvents(pastEvents);
+      setFilteredUpcomingEvents(upcomingEvents);
     } else {
-      setFilteredEvents(allEvents.filter((e) => e.category === selectedCategory));
+      setFilteredPastEvents(pastEvents.filter((e) => e.category === selectedCategory));
+      setFilteredUpcomingEvents(upcomingEvents.filter((e) => e.category === selectedCategory));
     }
   }, [selectedCategory]);
 
@@ -39,7 +45,7 @@ export default function EventsPage() {
         delay: idx * 0.05,
       });
     });
-  }, [filteredEvents]);
+  }, [filteredPastEvents, filteredUpcomingEvents]);
 
   const categories = ['All', 'Technical', 'Career & Placement', 'Competitions', 'Social & Cultural', 'Industry Interaction'];
 
@@ -79,16 +85,17 @@ export default function EventsPage() {
         </div>
       </section>
 
-      {/* Events Grid */}
+      {/* Upcoming Events */}
       <section className="py-20 bg-white border-b-2 border-borderNeutral">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          {filteredEvents.length === 0 ? (
+          <h2 className="text-4xl font-bold text-textPrimary mb-12">Upcoming Events</h2>
+          {filteredUpcomingEvents.length === 0 ? (
             <div className="text-center py-20">
-              <p className="text-textSecondary text-xl">No events found in this category.</p>
+              <p className="text-textSecondary text-xl">No upcoming events in this category.</p>
             </div>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {filteredEvents.map((event) => (
+              {filteredUpcomingEvents.map((event) => (
                 <div
                   key={event.id}
                   className="event-card-grid group rounded-2xl overflow-hidden bg-white border border-borderNeutral hover:border-primary/50 transition-all duration-300 hover-lift cursor-pointer"
@@ -99,7 +106,7 @@ export default function EventsPage() {
                     <img
                       src={event.image || getImagePlaceholder()}
                       alt={event.title}
-                      className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                      className="w-full h-full  object-cover group-hover:scale-110 transition-transform duration-500"
                     />
                     <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors duration-300" />
                   </div>
@@ -123,6 +130,60 @@ export default function EventsPage() {
 
                     <button className="w-full py-2 px-4 bg-btn-gradient text-white rounded-lg hover:shadow-lg hover:shadow-primary/50 transition-all duration-300 text-sm font-medium">
                       View Details
+                    </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </section>
+
+      {/* Past Events */}
+      <section className="py-20 bg-white border-b-2 border-borderNeutral">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-4xl font-bold text-textPrimary mb-12">Past Events</h2>
+          {filteredPastEvents.length === 0 ? (
+            <div className="text-center py-20">
+              <p className="text-textSecondary text-xl">No past events in this category.</p>
+            </div>
+          ) : (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {filteredPastEvents.map((event) => (
+                <div
+                  key={event.id}
+                  className="event-card-grid group rounded-2xl overflow-hidden bg-white border border-borderNeutral hover:border-primary/50 transition-all duration-300 hover-lift cursor-pointer"
+                  onClick={() => setSelectedEvent(event)}
+                >
+                  {/* Image */}
+                  <div className="relative h-48 overflow-hidden">
+                    <img
+                      src={event.image || getImagePlaceholder()}
+                      alt={event.title}
+                      className="w-full h-full  object-cover group-hover:scale-110 transition-transform duration-500"
+                    />
+                    <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors duration-300" />
+                  </div>
+
+                  {/* Content */}
+                  <div className="p-6">
+                    <div className="flex items-center justify-between mb-3">
+                      <span className="px-3 py-1 bg-secondary/20 text-secondary text-xs font-semibold rounded-full">
+                        {event.category}
+                      </span>
+                      <span className="text-textSecondary text-xs">{event.date}</span>
+                    </div>
+
+                    <h3 className="text-xl font-bold text-textPrimary mb-2 group-hover:text-primary transition-colors">
+                      {event.title}
+                    </h3>
+
+                    <p className="text-textSecondary text-sm mb-4 line-clamp-2">
+                      {event.description}
+                    </p>
+
+                    <button className="w-full py-2 px-4 bg-gray-300 text-gray-600 rounded-lg cursor-not-allowed transition-all duration-300 text-sm font-medium" disabled>
+                      Event Completed
                     </button>
                   </div>
                 </div>
@@ -181,9 +242,15 @@ export default function EventsPage() {
               </p>
 
               <div className="flex gap-4">
-                <button className="flex-1 py-3 px-6 bg-btn-gradient text-white rounded-lg hover:shadow-lg hover:shadow-primary/50 transition-all duration-300 font-semibold">
-                  Register Now
-                </button>
+                {selectedEvent.status === 'upcoming' ? (
+                  <button className="flex-1 py-3 px-6 bg-btn-gradient text-white rounded-lg hover:shadow-lg hover:shadow-primary/50 transition-all duration-300 font-semibold">
+                    Register Now
+                  </button>
+                ) : (
+                  <button className="flex-1 py-3 px-6 bg-gray-300 text-gray-600 rounded-lg cursor-not-allowed transition-all duration-300 font-semibold" disabled>
+                    Event Completed
+                  </button>
+                )}
                 <button
                   onClick={() => setSelectedEvent(null)}
                   className="flex-1 py-3 px-6 border-2 border-secondary text-secondary rounded-lg hover:bg-secondary/10 transition-all duration-300 font-semibold"

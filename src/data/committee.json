@@ -5,19 +5,19 @@
         "id": 1,
         "name": "Dr. R. D. Kharadkar",
         "designation": "Campus Director, GHRCEM",
-        "image": "/images/committee/director.jpg"
+        "image": "/images/commitee/image.png"
       },
       {
         "id": 2,
         "name": "Dr. Poonam Gupta",
         "designation": "Head of Department (HOD IT)",
-        "image": "/images/committee/hod.jpg"
+        "image": "/images/commitee/HOD.png"
       },
       {
         "id": 3,
-        "name": "Ms. Poonam Dhamal",
+        "name": "Ms. Juhi Agrawal",
         "designation": "Student Activity Coordinator",
-        "image": "/images/committee/coordinator.jpg"
+        "image": "/images/commitee/juhimam.png"
       }
     ],
     "core_committee": [
@@ -26,56 +26,56 @@
         "name": "Aditya Bawaskar",
         "role": "President",
         "year": "B.Tech",
-        "image": "/images/committee/president.jpg"
+        "image": "/images/commitee/president.jpg"
       },
       {
         "id": 2,
         "name": "Vedant Maruti Pathak",
         "role": "Vice President",
         "year": "TY",
-        "image": "/images/committee/vp.jpg"
+        "image": "/images/commitee/vp.jpg"
       },
       {
         "id": 3,
         "name": "Anugrah Vishal Shinde",
         "role": "Secretary",
         "year": "SY",
-        "image": "/images/committee/secretary.jpg"
+        "image": "/images/commitee/secretary.jpg"
       },
       {
         "id": 4,
         "name": "Harsh Rajkumar Sarda",
         "role": "Treasurer",
         "year": "TY",
-        "image": "/images/committee/treasurer.jpg"
+        "image": "/images/commitee/treasurer.jpg"
       },
       {
         "id": 5,
         "name": "Shreyans Sandeep Magdum",
         "role": "Event Coordinator",
         "year": "TY",
-        "image": "/images/committee/event-coord.jpg"
+        "image": "/images/commitee/event-coord.jpg"
       },
       {
         "id": 6,
         "name": "Purab Jitendra Roy",
         "role": "Publicity Incharge",
         "year": "SY",
-        "image": "/images/committee/publicity.jpg"
+        "image": "/images/commitee/publicity.jpg"
       },
       {
         "id": 7,
         "name": "Adarsh Kumar Chaurasia",
         "role": "Web Master",
         "year": "SY",
-        "image": "/images/committee/webmaster.jpg"
+        "image": "/images/commitee/webmaster.jpg"
       },
        {
         "id": 8,
         "name": "Harsh Deore",
         "role": "Web Master",
         "year": "SY",
-        "image": "/images/committee/webmaster.jpg"
+        "image": "/images/commitee/webmaster.jpg"
       }
     ]
   }

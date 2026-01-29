@@ -39,7 +39,7 @@ export default function CommitteePage() {
   const CommitteeCard = ({ member, isAuthority = false }) => (
     <div className="committee-card group p-6 rounded-2xl bg-white border border-borderNeutral hover:border-primary/60 transition-all duration-300 hover:shadow-lg hover:shadow-primary/20 text-center">
       <div className="w-24 h-24 mx-auto mb-4 rounded-xl overflow-hidden bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
-        <span className="text-white font-bold text-2xl opacity-30">Photo</span>
+        <img src={member.image} alt={member.name} className="w-full h-full object-cover rounded-xl" />
       </div>
       <h3 className="text-textPrimary font-bold text-lg mb-2 group-hover:text-primary transition-colors">
         {member.name}
