@@ -19,6 +19,10 @@ export default function EventsPage() {
     const pastEvents = allEvents.filter((e) => e.status === 'past');
     const upcomingEvents = allEvents.filter((e) => e.status === 'upcoming');
 
+    console.log("All Events:", allEvents);
+    console.log("Past Events:", pastEvents);
+    console.log("Upcoming Events:", upcomingEvents);
+
     if (selectedCategory === 'All') {
       setFilteredPastEvents(pastEvents);
       setFilteredUpcomingEvents(upcomingEvents);

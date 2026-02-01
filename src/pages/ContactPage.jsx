@@ -59,7 +59,7 @@ export default function ContactPage() {
               </div>
               <h3 className="text-textPrimary font-bold mb-2">Email</h3>
               <a href={`mailto:${contact.email?.[0]?.address}`} className="text-secondary hover:text-primary transition-colors break-all">
-                {console.log(contact.email?.[0]?.address)}
+                {contact.email?.[0]?.address}
               </a>
             </div>
 
@@ -188,7 +188,7 @@ export default function ContactPage() {
                     style={{ border: 0 }}
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.2500595831503!2d74.20206631485918!3d19.26887158706649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdcb05b7deadead%3A0x8f435f879758370!2sGH%20Raisoni%20College%20of%20Engineering%20and%20Management!5e0!3m2!1sen!2sin!4v1640000000000"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.88384682068!2d73.9795493749642!3d18.573372082530472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c38275a673c5%3A0x368b6a8fa28346d!2sG%20H%20RAISONI%20College%20OF%20ENGINEERING%20AND%20Management%2C%20PUNE!5e1!3m2!1sen!2sin!4v1769666344498!5m2!1sen!2sin"
                   />
                 </div>
 

@@ -1,297 +1,271 @@
 {
   "2024-25-term-1": [
-    {
-      "id": 1,
-      "title": "Skill Development Program on Data Analytics",
-      "category": "Technical",
-      "date": "2024-06-18",
-      "description": "Comprehensive Skill Development Program on Data Analytics conducted by internal faculty and industry expert Ms. Swati Joshi from Deutsche Bank. Equipped over 90 students with practical knowledge on data analytics techniques and tools.",
-      "coordinators": ["Dr. Vijaya Choudhary", "Ms. Swati Joshi (Deutsche Bank)"],
-      "image": "/images/events/industrial_visit.png",
-      "year": "2024–25 Term I",
-      "status": "past"
-    },
-    {
-      "id": 2,
-      "title": "Growing Green: Community Plants for a Brighter Future",
-      "category": "Social & Cultural",
-      "date": "2024-07-06",
-      "description": "Tree plantation drive at Green Sunrise Hills, Wagholi. Students planted Jamun saplings to promote sustainability, improve air quality, and support biodiversity.",
-      "coordinators": ["Ms. Yugashree Bhadane", "Ms. Archana Dongardive"],
-      "image": "/images/events/tree-plantation.jpg",
-      "year": "2024–25 Term I",
-      "status":"upcoming"
-    },
-    {
-      "id": 3,
-      "title": "Bridge to Careers: Accenture Recruitment Talk",
-      "category": "Career & Placement",
-      "date": "2024-07-10",
-      "description": "Training and Placement session focusing on Accenture recruitment process. Approximately 70 B.Tech students benefited from insights on recruitment procedures and preparation strategies.",
-      "coordinators": ["Mr. Sachin Umare", "Mr. Dnyandeo Khemnar"],
-      "image": "/images/events/accenture-drive.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 4,
-      "title": "Code Conquer: A Key for Placements",
-      "category": "Career & Placement",
-      "date": "2024-07-15",
-      "description": "Interactive alumni session with Mr. Pavan Patel (Software Development Engineer at Jade Global). Guidance on career preparation, data structures, and resources like LeetCode, HackerRank, and Codeforces.",
-      "coordinators": ["Ms. Yugashree Bhadane", "Mr. Pavan Patel"],
-      "image": "/images/events/code-conquer.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 5,
-      "title": "Expert Session on Copyright, Patent, Project Sponsorship & Writing Research Articles",
-      "category": "Technical",
-      "date": "2024-07-18",
-      "description": "Session covering B.Tech project requirements including copyright, patents, sponsorship, research article writing, and plagiarism checks using Turnitin. Around 15+ project groups benefited.",
-      "coordinators": ["Dr. Poonam Gupta", "Dr. Shaikh Abdul Waheed"],
-      "image": "/images/events/research-articles.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 6,
-      "title": "IBM Training: Cloud Computing, Data Analytics, and AI",
-      "category": "Technical",
-      "date": "2024-08-05",
-      "description": "Three-day comprehensive IBM training program under IETE and ISTE. Covered cloud computing, data analytics, machine learning, deep learning, and hands-on sessions using IBM Cloud platforms. 60 second-year students participated.",
-      "coordinators": ["Ms. Samrudhi Bhadane", "IBM Experts"],
-      "image": "/images/events/ibm-training.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 7,
-      "title": "Mastering UML: Blueprint for Clear & Effective System Design",
-      "category": "Technical",
-      "date": "2024-08-08",
-      "description": "Session on UML fundamentals and advanced concepts. Covered structural and behavioral diagrams, system design, and popular UML tools like StarUML, ArgoUML, and Visual Paradigm. 80 third-year students participated.",
-      "coordinators": ["Ms. Savita Mane", "Ms. Yugashree Bhadane"],
-      "image": "/images/events/uml-workshop.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 8,
-      "title": "Ignite Your GRE Ambition - GRE Mock Test",
-      "category": "Competitions",
-      "date": "2024-08-09",
-      "description": "GRE Mock Test replicating actual GRE format. Sponsored by Mr. Aditya Chaudhari (Atencion Media). Around 200 students from various disciplines participated and gained insights into time management and preparation strategies.",
-      "coordinators": ["Ms. Yugashree Bhadane", "Mr. Aditya Chaudhari"],
-      "image": "/images/events/gre-test.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 9,
-      "title": "Expert Lecture: Pathway to GRE/GMAT Excellence",
-      "category": "Competitions",
-      "date": "2024-08-09",
-      "description": "Expert guidance session by Mr. Nitin Lathe (Senior Faculty at IMFS) on GRE, GMAT, SAT, TOEFL, and IELTS. Shared effective strategies on study planning, time management, and building strong academic profiles. 170 students benefited.",
-      "coordinators": ["Mr. Nitin Lathe", "Ms. Yugashree Bhadane"],
-      "image": "/images/events/gre-gmat-workshop.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 10,
-      "title": "Dashboard-Making Competition",
-      "category": "Competitions",
-      "date": "2024-08-13",
-      "description": "Dashboard-Making Competition under ISTE with categories for Best Overall Design, Most Innovative, and Best Interactive Features. 71 students participated. Winners: Sampada Payas (MCA), Tejas Borle (CS-AIML), Yash Kute (SY IT-C).",
-      "coordinators": ["Dr. Vijaya Chaudhary", "Ms. Yugashree Bhadane"],
-      "image": "/images/events/dashboard-competition.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 11,
-      "title": "Workshop on Dive into GitHub: A Practical Workshop",
-      "category": "Technical",
-      "date": "2024-08-23",
-      "description": "Practical GitHub workshop conducted by Mr. Govind Hivrale (DevOps Engineer at BMC Software, alumnus 2020-21). Covered Git basics, repositories, branches, pulls requests, and hands-on collaboration exercises. 131 students participated.",
-      "coordinators": ["Mr. Govind Hivrale", "Ms. Yugashree Bhadane"],
-      "image": "/images/events/github-workshop.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 12,
-      "title": "Expert Lecture: Achieving Educational Excellence Through OBE",
-      "category": "Technical",
-      "date": "2024-08-29",
-      "description": "Expert lecture by Dr. Anil Sahu (Dean of PhD at GHRCEM) on Outcome-Based Education (OBE). Explained learner-centric approach, Course Outcomes, and Program Outcomes. 58 aspiring students attended.",
-      "coordinators": ["Dr. Anil Sahu", "Ms. Yugashree Bhadane"],
-      "image": "/images/events/obe-lecture.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 13,
-      "title": "Industry Visit to Radiant IT Services Pvt. Ltd., Pune",
-      "category": "Industry Interaction",
-      "date": "2024-08-30",
-      "description": "Industry visit for second-year students (44 participants) to explore web and full-stack development. MoU signed for expert sessions, workshops, and internships to strengthen academia-industry collaboration.",
-      "coordinators": ["Ms. Yugashree Bhadane", "Radiant IT Services Team"],
-      "image": "/images/events/industry-visit.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 14,
-      "title": "Expert Guidance Session on Smart India Hackathon 2024",
-      "category": "Competitions",
-      "date": "2024-08-30",
-      "description": "SIH 2024 guidance session by Dr. Swapnil Mahajan (Head of Innovation & Incubation) and Ms. Samruddhi Dhamdhere (SIH 2022 finalist, alumnus). Shared insights on innovation, teamwork, and project development. 124 students benefited.",
-      "coordinators": ["Dr. Swapnil Mahajan", "Ms. Samruddhi Dhamdhere"],
-      "image": "/images/events/sih-guidance.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 15,
-      "title": "Higher Studies in USA: Guidance to Receive 100% Scholarship",
-      "category": "Career & Placement",
-      "date": "2024-08-21",
-      "description": "Session on higher education opportunities in USA. Mr. Subhash Pol (Business Development Manager, Edwise International) guided 87 students on standardized tests (GRE, GMAT, SAT, TOEFL, IELTS) and application strategies.",
-      "coordinators": ["Mr. Subhash Pol", "Ms. Yugashree Bhadane"],
-      "image": "/images/events/usa-higher-studies.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 16,
-      "title": "Parents Teacher Meet",
-      "category": "Social & Cultural",
-      "date": "2024-08-31",
-      "description": "Interactive Parent-Teacher Meet with 34 parents participating. Discussion on department Vision, Mission, PEOs, POs, placements, and student activities. Ms. Surbhi Pranav (Student Counselor) shared insights on student well-being.",
-      "coordinators": ["Dr. Poonam Gupta", "Ms. Surbhi Pranav"],
-      "image": "/images/events/parents-meet.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 17,
-      "title": "Teacher's Day Celebration",
-      "category": "Social & Cultural",
-      "date": "2024-09-05",
-      "description": "Teacher's Day celebration featuring ribbon-cutting, welcome speech, token appreciation, student speeches, cake-cutting ceremony, and fun activities. Dr. Poonam Gupta and Dr. R. D. Kharadkar participated.",
-      "coordinators": ["Ms. Yugashree Bhadane", "ITSA Team"],
-      "image": "/images/events/teachers-day.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 18,
-      "title": "Blind Coding Contest: Mastering the Art of Code Without Seeing",
-      "category": "Competitions",
-      "date": "2024-09-26",
-      "description": "Blind Coding competition with 230 participants in three progressive rounds: MCQ (30 questions on algorithms), Average Coding (3 problems), and Blind Coding (coding without compiler). Top performers recognized for coding talent.",
-      "coordinators": ["GeeksforGeeks Student Chapter", "Ms. Yugashree Bhadane"],
-      "image": "/images/events/blind-coding.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 19,
-      "title": "DSY Induction Program",
-      "category": "Social & Cultural",
-      "date": "2024-09-28",
-      "description": "Induction program for DSY students introducing department Vision, Mission, curriculum, research initiatives, facilities, and student activities. 26 DSY students participated. Coordinated by Mr. Dnyandeo Khemnar.",
-      "coordinators": ["Dr. Poonam Gupta", "Mr. Dnyandeo Khemnar"],
-      "image": "/images/events/dsy-induction.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 20,
-      "title": "Monogram Designing Competition cum Exhibition",
-      "category": "Competitions",
-      "date": "2024-09-27",
-      "description": "Monogram Designing Competition with 43 students showcasing creative designs reflecting department identity. Judged by alumnus Mr. Omkar Raut. 9 best designs (8 for labs, 1 for department) will be copyrighted.",
-      "coordinators": ["IEEE", "GeeksforGeeks Student Chapter"],
-      "image": "/images/events/monogram-competition.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 21,
-      "title": "Eureka Idea Pitching Competition",
-      "category": "Competitions",
-      "date": "2024-09-27",
-      "description": "Eureka Idea Pitching Competition under E-Cell with 51 students from various departments. Focus on effective communication, value proposition, passion, and visual aids. Evaluated by Mr. Omkar Raut (Tech Mahindra).",
-      "coordinators": ["E-Cell", "Ms. Poonam Dhamal"],
-      "image": "/images/events/eureka-pitching.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 22,
-      "title": "Expert Lecture on OOP and DSA",
-      "category": "Technical",
-      "date": "2024-10-05",
-      "description": "Expert lecture on Object-Oriented Programming and Data Structures under CSI banner. Focused on OOP principles and key data structures. 40 SY students participated with career guidance shared.",
-      "coordinators": ["Ms. Prachi Patil", "CSI"],
-      "image": "/images/events/oop-dsa.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 23,
-      "title": "Workshop on Build Your Own AI Avatar",
-      "category": "Technical",
-      "date": "2024-10-08",
-      "description": "Hands-on workshop on AI avatar creation under IEEE and NxtWave Pvt. Ltd. 65 students explored AI concepts and designed custom AI avatars. Resource person: Mr. Abhinav Devaguptapu (NxtWave).",
-      "coordinators": ["IEEE", "NxtWave Pvt. Ltd."],
-      "image": "/images/events/ai-avatar.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 24,
-      "title": "Career Opportunities after B.Tech and Competitive Exams",
-      "category": "Career & Placement",
-      "date": "2024-10-09",
-      "description": "Session on diverse career paths after B.Tech by Mr. Kaushik Agastyaraj (Faculty at ACE). Covered software development, core engineering, higher studies, GATE, IES, and PSU exams. 70 students participated.",
-      "coordinators": ["Mr. Kaushik Agastyaraj", "Mr. Dnyandeo Khemnar"],
-      "image": "/images/events/career-opportunities.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 25,
-      "title": "AMCAT Conquered - Strategies for High Scores",
-      "category": "Career & Placement",
-      "date": "2024-10-01",
-      "description": "AMCAT preparation test for B.Tech students with 310 participants. Training and Placement Cell session highlighting career opportunities after AMCAT and effective exam strategies.",
-      "coordinators": ["Mr. Dnyandeo Khemnar", "T&P Cell"],
-      "image": "/images/events/amcat-test.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 26,
-      "title": "Guest Lecture on GenAI – Hype or Reality",
-      "category": "Technical",
-      "date": "2024-10-05",
-      "description": "Guest lecture by Mr. Mihir Nanal (Managing Director, Accenture) on Generative AI potential, challenges, and ethical implications. Discussed real-world impact and responsible AI development. 60 TY students attended.",
-      "coordinators": ["Mr. Mihir Nanal", "Mr. Dnyandeo Khemnar"],
-      "image": "/images/events/genai-lecture.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 27,
-      "title": "Expert Lecture on Community Detection Algorithms",
-      "category": "Technical",
-      "date": "2024-10-15",
-      "description": "Online expert lecture by Dr. Sumit Kumar Gupta (IIIT Pune) on community detection algorithms in complex networks. Covered modularity-based, hierarchical, and statistical methods with applications in social networks and cybersecurity. 143 students attended.",
-      "coordinators": ["Dr. Sumit Kumar Gupta", "ISTE"],
-      "image": "/images/events/community-detection.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 28,
-      "title": "Educational Tour to Bhau Institute (COEP)",
-      "category": "Industry Interaction",
-      "date": "2024-10-08",
-      "description": "Educational tour to COEP's Bhau Institute of Innovation, Entrepreneurship, and Leadership. 27 students gained exposure to innovation processes, incubation facilities, and entrepreneurial pathways.",
-      "coordinators": ["Ms. Poonam Dhamal", "ITSA"],
-      "image": "/images/events/coep-tour.jpg",
-      "year": "2024–25 Term I"
-    },
-    {
-      "id": 29,
-      "title": "Ideathon 2024 - ICT Academy, Capgemini, and Barclays Bank",
-      "category": "Competitions",
-      "date": "2024-09-06",
-      "description": "Ideathon 2024 with 10 GHRCEM teams reaching finals among 106 registered teams. Winning team 'New Gen Innovators' secured 1st Prize (₹1,00,000), followed by 'Concept Crew' (₹75,000) and 'Power Rangers 2.0' (₹25,000).",
-      "coordinators": ["Prof. Neelesh Sirdeshmukh", "ICT Academy"],
-      "image": "/images/events/ideathon.jpg",
-      "year": "2024–25 Term I"
-    }
+    
+      {
+        "id": 1,
+        "title": "Growing Green: Community Plants for a Brighter Future",
+        "category": "Social & Cultural",
+        "date": "2024-07-06",
+        "description": "Tree plantation drive at Green Sunrise Hills, Wagholi, where students planted Jamun saplings to promote sustainability, improve air quality, and support biodiversity.",
+        "coordinators": [
+          "Ms. Yugashree Bhadane",
+          "Mrs. Archana Dongardive",
+          "Mr. Dnyandeo Khemnar",
+          "Mr. Amol Chincholkar"
+        ],
+        "image": "/images/events/tree-plantation.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 2,
+        "title": "Dashboard Making Competition",
+        "category": "Technical",
+        "date": "2024-08-13",
+        "description": "A competitive event focused on data visualization and analytics where students designed interactive dashboards and were evaluated on innovation, usability, and insights.",
+        "coordinators": [
+          "Ms. Yugashree Bhadane"
+        ],
+        "image": "/images/events/dashboard-competition.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 3,
+        "title": "Industrial Visit to Radiant IT Services Pvt. Ltd.",
+        "category": "Industry Interaction",
+        "date": "2024-08-30",
+        "description": "Second-year students visited Radiant IT Services Pvt. Ltd., Pune, gaining exposure to web and full-stack development practices and strengthening academia–industry collaboration.",
+        "coordinators": [
+          "Ms. Yugashree Bhadane"
+        ],
+        "image": "/images/events/radiant-it-visit.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 4,
+        "title": "Parents Teacher Meet",
+        "category": "Career & Placement",
+        "date": "2024-08-31",
+        "description": "An interactive session to strengthen parent–teacher communication, discuss academic progress, placement initiatives, student well-being, and departmental vision.",
+        "coordinators": [
+          "Mrs. Sheetal Aher"
+        ],
+        "image": "/images/events/ptm-aug-2024.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 5,
+        "title": "Teacher’s Day Celebration",
+        "category": "Social & Cultural",
+        "date": "2024-09-05",
+        "description": "A celebration honoring teachers with speeches, cultural activities, and tokens of appreciation, expressing gratitude for their guidance and mentorship.",
+        "coordinators": [
+          "Ms. Yugashree Bhadane"
+        ],
+        "image": "/images/events/teachers-day-2024.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 6,
+        "title": "DSY Induction Program",
+        "category": "Career & Placement",
+        "date": "2024-09-28",
+        "description": "Induction program for Direct Second Year students introducing department vision, curriculum, facilities, research initiatives, and career pathways.",
+        "coordinators": [
+          "Mr. Dnyandeo Khemnar"
+        ],
+        "image": "/images/events/dsy-induction.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 7,
+        "title": "AMCAT Test & Career Guidance Session",
+        "category": "Career & Placement",
+        "date": "2024-10-01",
+        "description": "AMCAT assessment conducted for B.Tech students along with a session on career opportunities and preparation strategies after AMCAT.",
+        "coordinators": [
+          "Mr. Dnyandeo Khemnar"
+        ],
+        "image": "/images/events/amcat-test.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 8,
+        "title": "Expert Lecture on Career Opportunities after B.Tech",
+        "category": "Technical",
+        "date": "2024-10-09",
+        "description": "Guidance session highlighting diverse career paths after B.Tech, including higher studies, competitive exams, and industry roles.",
+        "coordinators": [
+          "Mr. Dnyandeo Khemnar"
+        ],
+        "image": "/images/events/career-opportunities.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 9,
+        "title": "Educational Visit to COEP’s Bhau Institute",
+        "category": "Industry Interaction",
+        "date": "2024-10-19",
+        "description": "Educational tour to Bhau Institute of Innovation, Entrepreneurship, and Leadership at COEP, exposing students to incubation and innovation ecosystems.",
+        "coordinators": [
+          "Ms. Poonam Dhamal"
+        ],
+        "image": "/images/events/bhau-institute-visit.jpg",
+        "year": "2024–25 Term I",
+        "status": "past"
+      },
+      {
+        "id": 10,
+        "title": "SoulSync Yoga and Meditation Program",
+        "category": "Social & Cultural",
+        "date": "2025-01-10",
+        "description": "A wellness program focusing on yoga, meditation, stress management, and mental well-being for students and faculty.",
+        "coordinators": [
+          "Dr. Poonam Gupta"
+        ],
+        "image": "/images/events/soulsync-yoga.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 11,
+        "title": "Industrial Visit to HeadstartX Technologies",
+        "category": "Industry Interaction",
+        "date": "2025-01-17",
+        "description": "Third-year students gained exposure to web and full-stack development practices at HeadstartX Technologies, Pune.",
+        "coordinators": [
+          "Mr. Dnyandeo Khemnar"
+        ],
+        "image": "/images/events/headstartx-visit.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 12,
+        "title": "Industrial Visit to NonStop io Technologies Pvt. Ltd.",
+        "category": "Industry Interaction",
+        "date": "2025-01-29",
+        "description": "Second-year students visited NonStop io Technologies Pvt. Ltd., learning about modern software solutions and industry workflows.",
+        "coordinators": [
+          "Mr. Dnyandeo Khemnar",
+          "Mrs. Sheetal Aher"
+        ],
+        "image": "/images/events/nonstopio-visit.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 13,
+        "title": "Art Festival (Shivjayanti)",
+        "category": "Social & Cultural",
+        "date": "2025-02-20",
+        "description": "Cultural festival celebrating Chhatrapati Shivaji Maharaj Jayanti with performances, competitions, and student participation.",
+        "coordinators": [
+          "Ms. Poonam Dhamal"
+        ],
+        "image": "/images/events/art-festival-shivjayanti.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 14,
+        "title": "Industrial Visit to IISER Pune",
+        "category": "Industry Interaction",
+        "date": "2025-02-28",
+        "description": "Visit to IISER Pune where students explored interdisciplinary research facilities and high-end computing infrastructure.",
+        "coordinators": [
+          "Ms. Vaishali Anaspure"
+        ],
+        "image": "/images/events/iiser-visit.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 15,
+        "title": "Industrial Visit to IMD Pune",
+        "category": "Industry Interaction",
+        "date": "2025-02-28",
+        "description": "Students gained insights into meteorological observation, weather forecasting systems, and radar technologies at IMD Pune.",
+        "coordinators": [
+          "Ms. Vaishali Anaspure"
+        ],
+        "image": "/images/events/imd-visit.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 16,
+        "title": "Industrial Visit to CDAC Pune",
+        "category": "Industry Interaction",
+        "date": "2025-02-28",
+        "description": "Visit to CDAC’s PARAM Supercomputing Facility, exposing students to High Performance Computing and parallel processing technologies.",
+        "coordinators": [
+          "Ms. Vaishali Anaspure"
+        ],
+        "image": "/images/events/cdac-visit.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 17,
+        "title": "Industrial Visit to IUCAA Pune",
+        "category": "Industry Interaction",
+        "date": "2025-02-28",
+        "description": "Educational visit to IUCAA Open Day where students explored astronomy research, demonstrations, and science outreach activities.",
+        "coordinators": [
+          "Ms. Vaishali Anaspure"
+        ],
+        "image": "/images/events/iucaa-visit.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 18,
+        "title": "Parents Teacher Meet",
+        "category": "Career & Placement",
+        "date": "2025-03-01",
+        "description": "A follow-up PTM focusing on academic performance, placements, student counseling, and overall development.",
+        "coordinators": [
+          "Mrs. Sheetal Aher"
+        ],
+        "image": "/images/events/ptm-mar-2025.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 19,
+        "title": "Coffee Cup Meet",
+        "category": "Social & Cultural",
+        "date": "2025-03-08",
+        "description": "An informal interaction session aimed at improving student–faculty bonding and open communication.",
+        "coordinators": [
+          "ITSA Team"
+        ],
+        "image": "/images/events/coffee-cup-meet.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      },
+      {
+        "id": 20,
+        "title": "Visit to Maher Orphanage and Old Age Home",
+        "category": "Social & Cultural",
+        "date": "2025-04-05",
+        "description": "Community service visit to Maher Ashram, Wagholi, where faculty members donated essentials and interacted with children and residents.",
+        "coordinators": [
+          "Ms. Poonam Dhamal"
+        ],
+        "image": "/images/events/maher-visit.jpg",
+        "year": "2024–25 Term II",
+        "status": "past"
+      }
+    
   ],
   "2023-24": [
     {
@@ -300,7 +274,9 @@
       "category": "Competitions",
       "date": "2023-12-10",
       "description": "Annual technology festival featuring coding challenges, tech talks, and networking events.",
-      "coordinators": ["Dr. Poonam Gupta"],
+      "coordinators": [
+        "Dr. Poonam Gupta"
+      ],
       "image": "/images/events/techfest-2023.jpg",
       "year": "2023–24",
       "status": "past"
