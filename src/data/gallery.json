@@ -1,33 +1,41 @@
 {
   "2024-25": {
     "Technical Events": [
-      { "id": 1, "src": "/images/gallery/2024-25/tech-1.jpg", "alt": "AI Workshop Session" },
-      { "id": 2, "src": "/images/gallery/2024-25/tech-2.jpg", "alt": "Web Development Bootcamp" },
-      { "id": 3, "src": "/images/gallery/2024-25/tech-3.jpg", "alt": "Participants Working" },
-      { "id": 4, "src": "/images/gallery/2024-25/tech-4.jpg", "alt": "Technical Demo" }
+      { "id": 1, "src": "/images/events/amcat-test.png", "alt": "AMCAT Test & Career Guidance Session" },
+      { "id": 2, "src": "/images/events/career-opportunities.png", "alt": "Expert Lecture on Career Opportunities after B.Tech" },
+      { "id": 3, "src": "/images/events/dsy-induction.png", "alt": "DSY Induction Program" },
+      { "id": 4, "src": "/images/events/dashboard-competition.png", "alt": "Dashboard Making Competition" }
     ],
     "Competitions": [
-      { "id": 5, "src": "/images/gallery/2024-25/comp-1.jpg", "alt": "Coding Competition" },
-      { "id": 6, "src": "/images/gallery/2024-25/comp-2.jpg", "alt": "Prize Distribution" },
-      { "id": 7, "src": "/images/gallery/2024-25/comp-3.jpg", "alt": "Participants Focus" }
+      { "id": 5, "src": "/images/events/dashboard-competition.png", "alt": "Dashboard Making Competition" },
+      { "id": 6, "src": "/images/events/art-festival-shivjayanti.png", "alt": "Art Festival Shivjayanti" }
+    ],
+    "Industry Interaction": [
+      { "id": 7, "src": "/images/events/radiant-it-visit.png", "alt": "Industrial Visit to Radiant IT Services Pvt. Ltd." },
+      { "id": 8, "src": "/images/events/headstartx-visit.png", "alt": "Industrial Visit to HeadstartX Technologies" },
+      { "id": 9, "src": "/images/events/nonstopio-visit.png", "alt": "Industrial Visit to NonStop io Technologies Pvt. Ltd." },
+      { "id": 10, "src": "/images/events/bhau-institute-visit.png", "alt": "Educational Visit to COEP Bhau Institute" },
+      { "id": 11, "src": "/images/events/iiser-visit.png", "alt": "Industrial Visit to IISER Pune" },
+      { "id": 12, "src": "/images/events/imd-visit.png", "alt": "Industrial Visit to IMD Pune" },
+      { "id": 13, "src": "/images/events/cdac-visit.png", "alt": "Industrial Visit to CDAC Pune" },
+      { "id": 14, "src": "/images/events/iucaa-visit.png", "alt": "Industrial Visit to IUCAA Pune" }
     ],
     "Social Activities": [
-      { "id": 8, "src": "/images/gallery/2024-25/social-1.jpg", "alt": "Tech Fest Opening" },
-      { "id": 9, "src": "/images/gallery/2024-25/social-2.jpg", "alt": "Team Group Photo" },
-      { "id": 10, "src": "/images/gallery/2024-25/social-3.jpg", "alt": "Networking Session" }
+      { "id": 15, "src": "/images/events/tree-plantation.png", "alt": "Tree Plantation at Green Sunrise Hills" },
+      { "id": 16, "src": "/images/events/teachers-day-2024.png", "alt": "Teacher’s Day Celebration" },
+      { "id": 17, "src": "/images/events/soulsync-yoga.png", "alt": "SoulSync Yoga and Meditation Program" },
+      { "id": 18, "src": "/images/events/ptm-aug-2024.png", "alt": "Parents Teacher Meet August 2024" },
+      { "id": 19, "src": "/images/events/ptm-mar-2025.png", "alt": "Parents Teacher Meet March 2025" },
+      { "id": 20, "src": "/images/events/coffee-cup-meet.png", "alt": "Coffee Cup Meet" },
+      { "id": 21, "src": "/images/events/maher-visit.png", "alt": "Visit to Maher Orphanage and Old Age Home" }
     ]
   },
   "2023-24": {
     "Technical Events": [
-      { "id": 11, "src": "/images/gallery/2023-24/tech-1.jpg", "alt": "2023 Workshop" },
-      { "id": 12, "src": "/images/gallery/2023-24/tech-2.jpg", "alt": "2023 Seminar" }
+      { "id": 22, "src": "/images/events/techfest-2023.png", "alt": "Annual Tech Fest 2023" }
     ],
     "Competitions": [
-      { "id": 13, "src": "/images/gallery/2023-24/comp-1.jpg", "alt": "2023 Competition" }
+      { "id": 23, "src": "/images/events/techfest-2023.png", "alt": "Annual Tech Fest Competition 2023" }
     ]
-  },
-  "2022-23":{
-    
   }
-
 }

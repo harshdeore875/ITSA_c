@@ -106,7 +106,7 @@ export default function EventsPage() {
                   onClick={() => setSelectedEvent(event)}
                 >
                   {/* Image */}
-                  <div className="relative h-48 overflow-hidden">
+                  <div className="relative h-48 overflow-hidden bg-white">
                     <img
                       src={event.image || getImagePlaceholder()}
                       alt={event.title}
@@ -160,7 +160,7 @@ export default function EventsPage() {
                   onClick={() => setSelectedEvent(event)}
                 >
                   {/* Image */}
-                  <div className="relative h-48 overflow-hidden">
+                  <div className="relative h-48 overflow-hidden bg-white">
                     <img
                       src={event.image || getImagePlaceholder()}
                       alt={event.title}
@@ -210,13 +210,12 @@ export default function EventsPage() {
             </button>
 
             {/* Image */}
-            <div className="relative h-64 overflow-hidden">
+            <div className="relative h-64 overflow-hidden bg-white">
               <img
                 src={selectedEvent.image || getImagePlaceholder()}
                 alt={selectedEvent.title}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-contain"
               />
-              <div className="absolute inset-0 bg-black/20" />
             </div>
 
             {/* Content */}

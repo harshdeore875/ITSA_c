@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import { Linkedin } from 'lucide-react';
 import committeeData from '../data/committee.json';
 
 gsap.registerPlugin(ScrollTrigger);
@@ -37,13 +38,20 @@ export default function CommitteePage() {
   }, [authorities.length, core_committee.length]);
 
   const CommitteeCard = ({ member, isAuthority = false }) => (
-    <div className="committee-card group p-6 rounded-2xl bg-white border border-borderNeutral hover:border-primary/60 transition-all duration-300 hover:shadow-lg hover:shadow-primary/20 text-center">
-      <div className="w-24 h-24 mx-auto mb-4 rounded-xl overflow-hidden bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
-        <img src={member.image} alt={member.name} className="w-full h-full object-cover rounded-xl" />
-      </div>
-      <h3 className="text-textPrimary font-bold text-lg mb-2 group-hover:text-primary transition-colors">
+    <div className="committee-card group p-6 rounded-2xl bg-white border border-borderNeutral hover:border-primary/60  transition-all duration-300 hover:shadow-lg hover:shadow-primary/20 text-center relative">
+      {isAuthority && (
+        <div className="w-24 h-24 mx-auto mb-4 rounded-xl overflow-hidden bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
+          <img src={member.image} alt={member.name} className="w-full h-full object-cover rounded-xl" />
+        </div>
+      )}
+      <h3 className="text-textPrimary font-bold text-lg mb-2 group-hover:text-primary m-5 transition-colors">
         {member.name}
       </h3>
+      <div className="absolute top-4 right-4">
+        <div className="p-1  bg-secondary group-hover:bg-primary rounded-md ">
+          <Linkedin className="w-4 h-4 text-white" />
+        </div>
+      </div>
       <p className={`mb-2 font-semibold ${isAuthority ? 'text-primary' : 'text-secondary'}`}>
         {member.designation || member.role}
       </p>

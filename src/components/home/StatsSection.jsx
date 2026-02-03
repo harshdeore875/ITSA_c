@@ -36,7 +36,7 @@ export default function StatsSection() {
       ScrollTrigger.getAll().forEach((trigger) => trigger.kill());
     };
   }, [stats]);
-   console.log("hello word");
+   
   return (
     <section ref={containerRef} className="py-20 bg-gradient-to-r from-blue-50 to-slate-50 relative overflow-hidden border-b-2 border-borderNeutral">
       {/* Decorative elements */}

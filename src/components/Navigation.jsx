@@ -36,7 +36,7 @@ export default function Navigation() {
           <Link to="/" className="flex-shrink-0">
             <div className="flex items-center gap-2">
               <img 
-                src="/images/image.png" 
+                src="/images/ITSA_LOGO.png" 
                 alt="ITSA Logo" 
                 className="w-12 h-12 object-contain"
               />

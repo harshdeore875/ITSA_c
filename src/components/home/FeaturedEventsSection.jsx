@@ -61,6 +61,7 @@ export default function FeaturedEventsSection() {
             >
               {/* Image */}
               <div className="relative h-48 overflow-hidden">
+                
                 <img
                   src={event.image}
                   alt={event.title}
