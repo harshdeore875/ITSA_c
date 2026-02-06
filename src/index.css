@@ -4,6 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 /* Perfect Gradient Text Component */
 @layer components {
   .gradient-heading {
@@ -24,6 +25,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  cursor: none;
 }
 
 html {
@@ -35,6 +37,11 @@ body {
   color: #1F2937;
   font-family: 'Inter', sans-serif;
   overflow-x: hidden;
+  cursor: none;
+}
+
+button {
+  cursor: none ;
 }
 
 /* Locomotive Scroll Styles */
@@ -193,6 +200,7 @@ html.has-scroll-smooth body {
 }
 
 .hover-lift:hover {
+  
   transform: translateY(-10px);
   box-shadow: 0 20px 40px rgba(99, 102, 241, 0.2);
 }
